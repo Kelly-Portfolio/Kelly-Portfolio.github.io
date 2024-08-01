@@ -25,9 +25,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 206cb7 #Donker Blauw
-  primary-rgb: "32,108,183" #Donkerblauw
-  secondary: d2e2f1 #FD6E8A
+  primary: d2e2f1 #Licht Blauw grijs
+  primary-rgb: "210,226,241" #Licht Blauw grijs
+  secondary: 206cb7 #Donker Blauw
   secondary-dark: 8fbfe5 #Licht Blauw
 
 # Footer settings
