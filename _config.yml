@@ -24,11 +24,15 @@ contact: static
 disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
+#Donker Blauw 206cb7 "32,108,183" 
+#Licht Blauw 8fbfe5
+#Licht Blauw grijs d2e2f1 "210,226,241" 
+#Donker Donker Blauw 243257
 color:
-  primary: d2e2f1 #Licht Blauw grijs
-  primary-rgb: "210,226,241" #Licht Blauw grijs
-  secondary: 206cb7 #Donker Blauw
-  secondary-dark: 8fbfe5 #Licht Blauw
+  primary: 206cb7 #About, Intro en knopjes
+  primary-rgb: "32,108,183" #About, Intro en Knopjes RGB values
+  secondary: 243257 #Header, Titles
+  secondary-dark: 206cb7 #Footer, Header location
 
 # Footer settings
 footer:
