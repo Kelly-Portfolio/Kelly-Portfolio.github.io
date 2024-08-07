@@ -500,6 +500,13 @@ ul.list-inline li {
     border-width: 2px; /* Set border width to 2px */
   }
 
+  .btn-success:active {
+    background-color: #{{ site.color.primary }}; /* Maintain primary color on click */
+    color: #fff; /* Optional: Change text color to white */
+    border-color: #{{ site.color.primary }};
+    border-width: 2px; /* Set border width to 2px */
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
