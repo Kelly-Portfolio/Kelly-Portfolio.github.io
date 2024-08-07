@@ -95,6 +95,7 @@ header {
     align-items: center;
     justify-content: center;
     color: #fff;
+    padding-bottom: 50px;
   }
   
   /* Make image container relative for absolute positioning of the image */
