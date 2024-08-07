@@ -476,6 +476,16 @@ footer .footer-below {
     /* border-color: #{{ site.color.primary }}; /* Invert the border to primary color */
 }
 
+.btn-success {
+    background-color: #{{ site.color.primary }}; /* Default green color */
+    /*border-color: #4cae4c; /* Border color */
+  }
+
+  .btn-success:hover {
+    background-color: #fff; /* Invert to white */
+    color: #{{ site.color.primary }}; /* Invert the icon color to primary */
+  }
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
