@@ -588,47 +588,15 @@ ul.list-inline li {
     -webkit-transform: translateZ(0);
 }
 
-/* Ensure the section takes up full width and centers content */
-#about {
-    padding: 60px 0; /* Add padding for spacing */
-    position: relative; /* Ensure relative positioning for absolute children */
+/* Custom styles */
+#about img {
+    max-width: 100%; /* Ensure image scales with its container */
+    height: auto;    /* Maintain aspect ratio */
+    display: block;  /* Remove any extra space below the image */
+    margin-bottom: 20px; /* Optional: Add space below the image */
   }
   
-  /* Style for the image column */
-  .about-image {
-    position: relative; /* Relative positioning to place the image correctly */
-    overflow: hidden; /* Hide overflow */
-  }
-  
-  /* Stretch the image from the edge to the middle */
-  .about-image img {
-    position: absolute;
-    left: 0; /* Start from the left edge */
-    top: 0;
-    width: 100%; /* Stretch to the full viewport width */
-    height: auto; /* Maintain aspect ratio */
-    transform: translateX(-50%); /* Move image to the left */
-    max-width: none; /* Override max-width for full stretch */
-    z-index: -1; /* Ensure it is behind other content */
-  }
-  
-  /* Ensure text content adjusts appropriately */
-  .about-text {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 0 20px; /* Add padding to avoid text touching edges */
-  }
-  
-  /* Adjust layout for smaller screens */
-  @media (max-width: 992px) {
-    .about-image img {
-      width: 100%;
-      transform: none; /* Remove translateX for smaller screens */
-    }
-    
-    .about-text {
-      text-align: center; /* Center text on smaller screens */
-    }
+  #about p {
+    margin-bottom: 15px; /* Optional: Add space between paragraphs */
   }
   
