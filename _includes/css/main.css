@@ -515,6 +515,7 @@ ul.list-inline li {
     color: #fff; /* Ensure text color is white */
     border-color: #{{ site.color.primary }};
     border-width: 2px; /* Set border width to 2px */
+    outline: none; /* Remove default focus outline */
 }
 
 .portfolio-modal .modal-content {
