@@ -465,6 +465,7 @@ footer .footer-below {
     border-radius: 100%;
     font-size: 20px;
     line-height: 28px;
+    background-color: #{{ site.color.secondayr-dark}};
 }
 
 .scroll-top .btn:focus {

@@ -30,7 +30,7 @@ disqus_shortname: myshortname
 #Donker Donker Blauw 243257
 color:
   primary: 206cb7 #About, Header en knopjes
-  primary-rgb: "32,108,183" #About, Intro en Knopjes RGB values
+  primary-rgb: "32,108,183" #About, Header en Knopjes RGB values
   secondary: 243257 #Navbar, Titles
   secondary-dark: 206cb7 #Footer, Navbar Squares
 
