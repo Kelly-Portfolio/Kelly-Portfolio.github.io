@@ -511,7 +511,10 @@ ul.list-inline li {
 /* Additional CSS to ensure focus and active states do not cause issues */
 .btn-success:focus,
 .btn-success:active:focus {
-    outline: none; /* Remove default focus outline */
+    ackground-color: #{{ site.color.primary }}; /* Maintain primary color on click */
+    color: #fff; /* Ensure text color is white */
+    border-color: #{{ site.color.primary }};
+    border-width: 2px; /* Set border width to 2px */
 }
 
 .portfolio-modal .modal-content {
