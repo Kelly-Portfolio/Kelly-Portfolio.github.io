@@ -16,8 +16,8 @@
          <ul class="list-inline">
             {% for network in site.social %}
             <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline"><i
-                  class="fa-brands fa-fw fa-{{ network.title }}"></i>
+              <a href="{{ network.url }}" class="btn-social btn-outline" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
               </a>
               <p class="social-description">{{ network.description }}</p>
             </li>
