@@ -485,7 +485,7 @@ footer .footer-below {
     background-color: #fff; /* Invert to white */
     color: #{{ site.color.primary }}; /* Invert the icon color to primary */
     border-color: #{{ site.color.primary }};
-    border-width: 2px; /* Set border width to 2px */
+    border-width: -2px; /* Set border width to 2px */
   }
 
 .portfolio-modal .modal-content {
