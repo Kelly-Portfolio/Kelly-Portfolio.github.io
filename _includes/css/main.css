@@ -478,14 +478,15 @@ footer .footer-below {
 
 .btn-success {
     background-color: #{{ site.color.primary }}; /* Default green color */
-    /*border-color: #4cae4c; /* Border color */
+    border-color: #{{ site.color.primary }};
+    border-width: 2px; /* Set border width to 2px */
   }
 
   .btn-success:hover {
     background-color: #fff; /* Invert to white */
     color: #{{ site.color.primary }}; /* Invert the icon color to primary */
     border-color: #{{ site.color.primary }};
-    border-width: -2px; /* Set border width to 2px */
+    border-width: 2px; /* Set border width to 2px */
   }
 
 .portfolio-modal .modal-content {
