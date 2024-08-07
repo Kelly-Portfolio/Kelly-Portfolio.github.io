@@ -97,8 +97,6 @@ header .container {
 }
 
 header img {
-    width: 100%;
-    height: auto;
     display: block;
     margin: 0 auto 20px;
 }
