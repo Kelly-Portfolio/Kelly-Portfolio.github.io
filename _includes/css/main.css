@@ -484,6 +484,7 @@ footer .footer-below {
   .btn-success:hover {
     background-color: #fff; /* Invert to white */
     color: #{{ site.color.primary }}; /* Invert the icon color to primary */
+    border-color: #{{ site.color.primary }};
   }
 
 .portfolio-modal .modal-content {
