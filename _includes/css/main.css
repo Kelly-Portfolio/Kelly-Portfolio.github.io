@@ -469,8 +469,11 @@ footer .footer-below {
     background-color: #{{ site.color.primary}};
 }
 
-.scroll-top .btn:focus {
-    outline: 0;
+/* Invert colors on hover */
+.scroll-top .btn:hover {
+    background-color: #fff; /* Invert to white */
+    color: #{{ site.color.primary }}; /* Invert the icon color to primary */
+    border-color: #{{ site.color.primary }}; /* Invert the border to primary color */
 }
 
 .portfolio-modal .modal-content {
