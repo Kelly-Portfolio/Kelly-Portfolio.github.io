@@ -86,20 +86,9 @@ hr.star-primary:after {
 }
 
 header {
-    position: relative;
     text-align: center;
     color: #fff;
     /* background: #{{ site.color.primary }};*/
-}
-
-/* Ensure the image spans the full width and is positioned at the top */
-header .full-width-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%; /* Full height to cover the header */
-  object-fit: cover; /* Ensures the image covers the header area without distortion */
 }
 
 header .container {
