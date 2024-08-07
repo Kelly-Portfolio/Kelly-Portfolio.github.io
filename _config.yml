@@ -43,9 +43,11 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - line: LinkedIn
   - title: linkedin
     url: https://www.linkedin.com/in/kelly-xu-designer/
-  - title: file
+  - line: CV
+  - title: google-drive
     url: https://drive.google.com/drive/folders/1A2wCSvAm_ZAo_J-Tva-wCy4AaTSlvfjM?usp=sharing
   #- title: stack-overflow
    # url: http://stackoverflow.com/questions/tagged/jekyll
