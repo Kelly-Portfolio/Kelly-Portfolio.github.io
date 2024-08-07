@@ -157,11 +157,14 @@ header {
     header {
         height: auto; /* Allow header to adjust height dynamically */
         margin-top: 50px; /* Ensure margin remains consistent with navbar height */
+        padding-bottom: 20px; /* Add padding to ensure content doesn't get cut off */
     }
 
     header .image-container img {
+        width: 100%;
         height: auto;
         object-fit: cover;
+        min-height: 200px; /* Ensure a minimum height to prevent cutting off content */
     }
 
     header. .intro-text {
