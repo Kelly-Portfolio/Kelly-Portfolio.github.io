@@ -488,23 +488,30 @@ ul.list-inline li {
 }
 
 .btn-success {
-    background-color: #{{ site.color.primary }}; /* Default green color */
+    background-color: #{{ site.color.primary }}; /* Default primary color */
     border-color: #{{ site.color.primary }};
     border-width: 2px; /* Set border width to 2px */
-  }
+    color: #fff; /* Ensure text color is white */
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Smooth transition */
+}
 
-  .btn-success:hover {
+.btn-success:hover {
     background-color: #fff; /* Invert to white */
-    color: #{{ site.color.primary }}; /* Invert the icon color to primary */
+    color: #{{ site.color.primary }}; /* Invert the text color to primary */
     border-color: #{{ site.color.primary }};
-    border-width: 2px; /* Set border width to 2px */
-  }
+}
 
-  .btn-success:active {
+.btn-success:active {
     background-color: #{{ site.color.primary }}; /* Maintain primary color on click */
-    color: #fff; /* Optional: Change text color to white */
+    color: #fff; /* Ensure text color is white */
     border-color: #{{ site.color.primary }};
     border-width: 2px; /* Set border width to 2px */
+}
+
+/* Additional CSS to ensure focus and active states do not cause issues */
+.btn-success:focus,
+.btn-success:active:focus {
+    outline: none; /* Remove default focus outline */
 }
 
 .portfolio-modal .modal-content {
