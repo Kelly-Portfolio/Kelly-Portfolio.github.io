@@ -86,9 +86,14 @@ hr.star-primary:after {
 }
 
 header {
+    position: relative;
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    /* background: #{{ site.color.primary }};*/
+}
+
+header .col-lg-12 {
+    position: relative;
 }
 
 header .container {
@@ -97,8 +102,18 @@ header .container {
 }
 
 header img {
+    width: 100%;
+    height: auto;
     display: block;
     margin: 0 auto 20px;
+}
+
+header .intro-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 header .intro-text .name {
@@ -112,6 +127,10 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
+}
+
+header .intro-text span {
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
 
 @media(min-width:768px) {
