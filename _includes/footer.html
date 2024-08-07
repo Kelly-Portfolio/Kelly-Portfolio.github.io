@@ -13,14 +13,14 @@
         </div>-->
         <div class="footer-col col-md-12">
           <h3>{{ site.footer.social }}</h3>
-          <!--  <ul class="list-inline">  -->
+          <ul class="list-inline">
             {% for network in site.social %}
-            <!--  <li>-->
+            <li>
               <a href="{{ network.url }}" class="btn-social btn-outline"><i
                   class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
-            <!--  </li>-->
+            </li>
             {% endfor %}
-         <!-- </ul> -->
+         </ul>
         </div>
         <!-- <div class="footer-col col-md-4">
           <h3>{{ site.footer.credits }}</h3>
