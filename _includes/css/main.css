@@ -559,3 +559,36 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* Ensure the section takes up full width and centers content */
+#about {
+    padding: 60px 0; /* Add some padding for spacing */
+  }
+  
+  /* Center the header text */
+  #about .text-center {
+    margin-bottom: 30px; /* Space between header and content */
+  }
+  
+  /* Adjust layout for smaller screens */
+  .about-content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  /* Ensure the image stretches and is responsive */
+  .about-content img {
+    width: 100%;
+    height: auto;
+    max-width: 100%; /* Ensure the image does not exceed container width */
+    margin-bottom: 20px; /* Space below the image on smaller screens */
+  }
+  
+  /* Adjust layout for smaller screens */
+  @media (max-width: 992px) {
+    .about-content {
+      text-align: center; /* Center text and image on smaller screens */
+    }
+  }
+  
