@@ -159,11 +159,6 @@ header {
         object-fit: cover;
     }
 
-    .intro-text {
-        top: 50%;
-        transform: translate(-50%, -50%);
-    }
-
     header .intro-text .name {
         font-size: 1.5em;
     }
