@@ -88,7 +88,7 @@ hr.star-primary:after {
 /* Ensure the header spans full width and height */
 header {
     width: 100%;
-    height: 50vh; /* Full viewport height */
+    /*height: 100vh; /* Full viewport height */
     overflow: hidden;
     text-align: center;
     display: flex;
@@ -101,7 +101,7 @@ header {
   .image-container {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: 50%;
   }
   
   /* Ensure the image covers the container */
