@@ -156,7 +156,7 @@ header {
 @media (max-width: 767px) {
     header {
         height: auto; /* Allow header to adjust height dynamically */
-        margin-top: 200px; /* Ensure margin remains consistent with navbar height */
+        /*margin-top: 200px; /* Ensure margin remains consistent with navbar height */
     }
 
     header .image-container img {
