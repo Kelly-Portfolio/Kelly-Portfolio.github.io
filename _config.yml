@@ -48,6 +48,7 @@ social:
     description: LinkedIn
   - title: google-drive
     url: https://drive.google.com/drive/folders/1A2wCSvAm_ZAo_J-Tva-wCy4AaTSlvfjM?usp=sharing
+    description: CV
   #- title: stack-overflow
    # url: http://stackoverflow.com/questions/tagged/jekyll
   #- title: bitbucket
