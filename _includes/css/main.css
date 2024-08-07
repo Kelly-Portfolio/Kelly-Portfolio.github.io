@@ -605,7 +605,7 @@ ul.list-inline li {
     position: absolute;
     left: 0; /* Start from the left edge */
     top: 0;
-    width: 100vw; /* Stretch to the full viewport width */
+    width: 100%; /* Stretch to the full viewport width */
     height: auto; /* Maintain aspect ratio */
     transform: translateX(-50%); /* Move image to the left */
     max-width: none; /* Override max-width for full stretch */
