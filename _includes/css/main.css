@@ -497,7 +497,7 @@ ul.list-inline {
 
 ul.list-inline li {
     display: inline-block; /* Ensure items are inline */
-    margin-right: 30px; /* Adjust spacing between list items if needed */
+    margin-right: 10px; /* Adjust spacing between list items if needed */
 }
 
 .btn-social {
