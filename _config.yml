@@ -49,12 +49,6 @@ social:
   - title: google-drive
     url: https://drive.google.com/drive/folders/1A2wCSvAm_ZAo_J-Tva-wCy4AaTSlvfjM?usp=sharing
     description: CV
-  #- title: stack-overflow
-   # url: http://stackoverflow.com/questions/tagged/jekyll
-  #- title: bitbucket
-   # url: http://bitbucket.org/jekyll
-  #- title: github
-   # url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
