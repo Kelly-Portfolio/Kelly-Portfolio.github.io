@@ -482,7 +482,6 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    display: flex;
     justify-content: center;
     margin-bottom: 50px;
 }
@@ -497,7 +496,7 @@ ul.list-inline {
     flex-wrap: wrap;
     justify-content: center; /* Center the items horizontally */
     margin: 0;
-    padding: 0;
+    padding: 10;
     list-style: none;
     max-width: 300px;
 }
