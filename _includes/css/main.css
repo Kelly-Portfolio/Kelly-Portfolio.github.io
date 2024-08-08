@@ -474,7 +474,6 @@ footer {
 
 footer h3 {
     margin-bottom: 10px;
-    text-align: center; /* Center title text */
 }
 
 footer .footer-above {
@@ -483,9 +482,6 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    display: flex; /* Ensure this container uses flexbox */
-    flex-direction: column;
-    justify-content: center; /* Center content horizontally within the footer column */
     margin-bottom: 50px; /* Space below the footer column */
 }
 
@@ -495,19 +491,13 @@ footer .footer-below {
 }
 
 ul.list-inline {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center; /* Center the items horizontally */
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    max-width: 400px;
+    padding-left: 0; /* Remove default padding from the list */
+    margin: 0; /* Remove default margin from the list */
 }
 
 ul.list-inline li {
-    margin: 5px; /* Reduce spacing between items */
-    flex: 0 1 auto; /* Adjust base width and allow items to grow/shrink */
-    text-align: center;
+    display: inline-block; /* Ensure items are inline */
+    margin-right: 10px; /* Adjust spacing between list items if needed */
 }
 
 .btn-social {
