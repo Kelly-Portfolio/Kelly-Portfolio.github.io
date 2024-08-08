@@ -266,7 +266,7 @@ section.success {
     margin: 0 auto;
     max-width: 400px;
 }
-
+/*
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
@@ -293,14 +293,6 @@ section.success {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-image {
-    transition: transform 0.3s ease; /* Smooth scaling effect */
-}
-  
-#portfolio .portfolio-item:hover .portfolio-image {
-    transform: scale(1.1); /* Scale the image to 110% of its original size */
-}
-
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
 }
@@ -312,6 +304,32 @@ section.success {
 
 #portfolio * {
     z-index: 2;
+}
+*/
+
+#portfolio .portfolio-item .portfolio-link::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0); /* Initial state: transparent */
+    transition: background-color 0.3s ease; /* Smooth transition for overlay */
+    z-index: 2;
+}
+
+#portfolio .portfolio-item:hover .portfolio-link::before {
+    background-color: rgba({{ site.color.primary-rgb }},.5); /* On hover: semi-transparent */
+}
+
+#portfolio .portfolio-item .portfolio-image {
+    transition: transform 0.3s ease; /* Smooth scaling effect */
+    z-index: 1;
+}
+  
+#portfolio .portfolio-item:hover .portfolio-image {
+    transform: scale(1.1); /* Scale the image to 110% of its original size */
 }
 
 @media(min-width:767px) {
