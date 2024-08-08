@@ -492,7 +492,6 @@ footer .footer-below {
 }
 
 ul.list-inline {
-    display: flex;
     flex-wrap: wrap;
     justify-content: center; /* Center the items horizontally */
     margin: 0;
