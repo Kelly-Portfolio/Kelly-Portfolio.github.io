@@ -343,7 +343,6 @@ section.success {
     left: 50%;
     transform: translate(-50%, -50%); /* Center the text */
     color: white;
-    font-size: 24px;
     text-align: center;
     opacity: 0;
     z-index: 3; /* Ensure it appears above the overlay */
@@ -353,6 +352,11 @@ section.success {
 /* Hover effect: show the title */
 #portfolio .portfolio-item:hover .portfolio-title {
     opacity: 1;
+}
+
+/* Ensure the title uses the default h3 styling */
+#portfolio .portfolio-item .portfolio-title h3 {
+    margin: 0; /* Remove margin to avoid layout shifts */
 }
 
 @media(min-width:767px) {
