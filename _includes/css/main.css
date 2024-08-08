@@ -501,7 +501,7 @@ ul.list-inline {
 
 ul.list-inline li {
     margin: 5px; /* Reduce spacing between items */
-    flex: 1 1 60px; /* Adjust base width and allow items to grow/shrink */
+    flex: 1 1 auto; /* Adjust base width and allow items to grow/shrink */
     text-align: center;
 }
 
