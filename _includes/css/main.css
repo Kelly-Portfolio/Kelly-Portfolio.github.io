@@ -257,6 +257,7 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    overflow: hidden; /* Ensure that enlarged images don't overflow the container */
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -290,6 +291,14 @@ section.success {
     text-align: center;
     font-size: 20px;
     color: #fff;
+}
+
+#portfolio .portfolio-item .portfolio-image {
+    transition: transform 0.3s ease; /* Smooth scaling effect */
+}
+  
+#portfolio .portfolio-item:hover .portfolio-image {
+    transform: scale(1.1); /* Scale the image to 110% of its original size */
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
@@ -453,7 +462,7 @@ ul.list-inline li {
     text-align: center;
     font-size: 20px;
     line-height: 45px;
-    /* margin-bottom: 10px; /* Add space between the button and description */
+    margin-bottom: 10px; /* Add space between the button and description */
 }
 
 .btn:focus,
