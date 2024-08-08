@@ -29,10 +29,10 @@ disqus_shortname: myshortname
 #Licht Blauw grijs d2e2f1 "210,226,241" 
 #Donker Donker Blauw 243257
 color:
-  primary: 206cb7 #About, Header en knopjes
-  primary-rgb: "32,108,183" #About, Header en Knopjes RGB values
-  secondary: 243257 #Navbar, Titles
-  secondary-dark: 206cb7 #Footer, Navbar Squares
+  primary: 206cb7 #About, Header en knopjes licht blauw
+  primary-rgb: "32,108,183" #About, Header en Knopjes RGB values licht blauw
+  secondary: 243257 #Navbar, Titles donker donker blauw
+  secondary-dark: 206cb7 #Footer, Navbar Squares licht blauw
 
 # Footer settings
 footer:
