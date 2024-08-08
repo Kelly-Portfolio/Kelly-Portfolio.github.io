@@ -482,8 +482,9 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    justify-content: center;
-    margin-bottom: 50px;
+    display: flex; /* Ensure this container uses flexbox */
+    justify-content: center; /* Center content horizontally within the footer column */
+    margin-bottom: 50px; /* Space below the footer column */
 }
 
 footer .footer-below {
@@ -492,17 +493,18 @@ footer .footer-below {
 }
 
 ul.list-inline {
+    display: flex;
     flex-wrap: wrap;
     justify-content: center; /* Center the items horizontally */
     margin: 0;
     padding: 10;
     list-style: none;
-    max-width: 300px;
+    max-width: 400px;
 }
 
 ul.list-inline li {
     margin: 5px; /* Reduce spacing between items */
-    flex: 1 1 auto; /* Adjust base width and allow items to grow/shrink */
+    flex: 0 1 auto; /* Adjust base width and allow items to grow/shrink */
     text-align: center;
 }
 
