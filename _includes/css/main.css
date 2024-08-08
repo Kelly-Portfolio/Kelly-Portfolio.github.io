@@ -453,7 +453,7 @@ ul.list-inline li {
     text-align: center;
     font-size: 20px;
     line-height: 45px;
-    margin-bottom: 10px; /* Add space between the button and description */
+    /* margin-bottom: 10px; /* Add space between the button and description */
 }
 
 .btn:focus,
