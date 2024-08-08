@@ -491,15 +491,17 @@ footer .footer-below {
 }
 
 ul.list-inline {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(20px, 1fr));
-    gap: 5px; /* Space between items */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the items horizontally */
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
 ul.list-inline li {
+    margin: 5px; /* Reduce spacing between items */
+    flex: 1 1 60px; /* Adjust base width and allow items to grow/shrink */
     text-align: center;
 }
 
