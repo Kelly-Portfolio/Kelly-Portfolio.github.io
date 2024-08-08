@@ -339,7 +339,7 @@ section.success {
 /* Styling for the portfolio title */
 #portfolio .portfolio-item .portfolio-title {
     position: absolute;
-    top: 20%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%); /* Center the text */
     color: white;
