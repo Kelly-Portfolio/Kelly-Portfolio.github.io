@@ -17,7 +17,7 @@
             {% for network in site.social %}
             <li>
               <a href="{{ network.url }}" class="btn-social btn-outline" target="_blank" rel="noopener noreferrer">
-                <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
+                <i class="fa{{ ' solid' if network.title == 'envelope' else ' brands' }} fa-{{ network.title }}"></i>
               </a>
               <p class="social-description">{{ network.description }}</p>
             </li>
