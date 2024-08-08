@@ -491,18 +491,15 @@ footer .footer-below {
 }
 
 ul.list-inline {
-    padding-left: 0; /* Remove default padding from the list */
-    margin: 0; /* Remove default margin from the list */
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center; /* Center the items horizontally */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px; /* Space between items */
+    margin: 0;
+    padding: 0;
     list-style: none;
 }
 
 ul.list-inline li {
-    display: inline-block; /* Ensure items are inline */
-    margin-right: 10px; /* Adjust spacing between list items if needed */
-    flex: 1 1 150px; /* Allow items to grow and shrink, with a base width */
     text-align: center;
 }
 
