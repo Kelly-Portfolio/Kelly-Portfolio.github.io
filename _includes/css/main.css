@@ -232,8 +232,8 @@ header {
 
 section {
     padding: 50px 0;
-    padding-top: 100px; /* Adjust this value based on your navbar height */
-    margin-top: -100px; /* Adjust this value to match the padding */
+    padding-top: 200px; /* Adjust this value based on your navbar height */
+    margin-top: -150px; /* Adjust this value to match the padding */
 }
 
 section h2 {
