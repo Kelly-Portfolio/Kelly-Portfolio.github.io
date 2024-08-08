@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: Tahoma,Arial,sans-serif;
+    font-family: Archivo,Tahoma,Arial,sans-serif;
 }
 
 p {
@@ -33,7 +33,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Tahoma,Arial,sans-serif;
+    font-family: Archivo,Tahoma,Arial,sans-serif;
     font-weight: 700;
     content: "\f005";
     display: inline-block;
@@ -125,7 +125,7 @@ header {
   header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Tahoma, Arial, sans-serif;
+    font-family: Archivo,Tahoma, Arial, sans-serif;
     font-size: 2em;
     font-weight: 700;
   }
@@ -209,7 +209,7 @@ header {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Tahoma ,Arial,sans-serif;
+    font-family: Archivo,Tahoma ,Arial,sans-serif;
     font-weight: 700;
 }
 
