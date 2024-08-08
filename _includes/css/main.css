@@ -307,6 +307,7 @@ section.success {
 }
 */
 
+/* Create an overlay using the ::before pseudo-element */
 #portfolio .portfolio-item .portfolio-link::before {
     content: '';
     position: absolute;
@@ -319,17 +320,39 @@ section.success {
     z-index: 2;
 }
 
+/* Hover effect: show the overlay */
 #portfolio .portfolio-item:hover .portfolio-link::before {
-    background-color: rgba({{ site.color.primary-rgb }},.5); /* On hover: semi-transparent */
+    background-color: rgba({{ site.color.primary-rgb }},.8); /* On hover: semi-transparent */
 }
 
+/* Styling for the image with the hover scale effect */
 #portfolio .portfolio-item .portfolio-image {
     transition: transform 0.3s ease; /* Smooth scaling effect */
     z-index: 1;
 }
-  
+
+/* Hover effect: scale the image */
 #portfolio .portfolio-item:hover .portfolio-image {
     transform: scale(1.1); /* Scale the image to 110% of its original size */
+}
+
+/* Styling for the portfolio title */
+#portfolio .portfolio-item .portfolio-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center the text */
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    opacity: 0;
+    z-index: 3; /* Ensure it appears above the overlay */
+    transition: opacity 0.3s ease; /* Smooth transition for title */
+}
+
+/* Hover effect: show the title */
+#portfolio .portfolio-item:hover .portfolio-title {
+    opacity: 1;
 }
 
 @media(min-width:767px) {
