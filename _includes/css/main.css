@@ -159,7 +159,7 @@ header {
     header {
         height: auto; /* Allow header to adjust height dynamically */
         margin-top: 50px; /* Ensure margin remains consistent with navbar height */
-        padding-bottom: 20px; /* Add padding to ensure content doesn't get cut off */
+        padding-bottom: 50px; /* Add padding to ensure content doesn't get cut off */
     }
 
     header .image-container img {
