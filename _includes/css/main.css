@@ -38,9 +38,9 @@ h6 {
     content: "\f005";
     display: inline-block;
     position: relative;
-    margin-top: 1em; /* Adjust as needed */
-    padding-top: 1em; /* Or use padding if you prefer */
-    padding: 0 .25em;
+    margin-top: 0.5em; /* Adjust as needed */
+    padding-top: 0.5em; /* Or use padding if you prefer */
+    padding-bottom: 0 .25em;
 }
 
 @media (max-width: 600px) {
@@ -50,8 +50,8 @@ h6 {
     h4,
     h5,
     h6 {
-        top: 0; /* Reset or adjust for smaller screens */
-        margin-top: 1em; /* Ensure padding or margin is consistent */
+        top: 0.5em; /* Reset or adjust for smaller screens */
+        margin-top: 0.5em; /* Ensure padding or margin is consistent */
     }
 }
 
