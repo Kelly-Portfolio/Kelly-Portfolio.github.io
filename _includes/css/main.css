@@ -38,8 +38,7 @@ h6 {
     content: "\f005";
     display: inline-block;
     position: relative;
-    margin-top: 1em; /* Adjust as needed */
-    padding-top: 1em; /* Or use padding if you prefer */
+    top: -.8em;
     padding: 0 .25em;
 }
 
