@@ -52,6 +52,7 @@ h6 {
     h6 {
         top: 0.5em; /* Reset or adjust for smaller screens */
         margin-top: 0.5em; /* Ensure padding or margin is consistent */
+        padding-bottom: 0 .25em;
     }
 }
 
