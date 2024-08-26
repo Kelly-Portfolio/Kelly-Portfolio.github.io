@@ -40,6 +40,7 @@ h6 {
     position: relative;
     margin-top: 0.5em; /* Adjust as needed */
     padding-top: 0.5em; /* Or use padding if you prefer */
+    padding: 0 .25em;
 }
 
 @media (max-width: 600px) {
