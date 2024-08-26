@@ -38,21 +38,8 @@ h6 {
     content: "\f005";
     display: inline-block;
     position: relative;
-    margin-top: 0.5em; /* Adjust as needed */
-    padding-top: 0.5em; /* Or use padding if you prefer */
+    top: -.5em;
     padding: 0 .25em;
-}
-
-@media (max-width: 600px) {
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-        top: 0.5em; /* Reset or adjust for smaller screens */
-        margin-top: 0.5em; /* Ensure padding or margin is consistent */
-    }
 }
 
 hr.star-light,
