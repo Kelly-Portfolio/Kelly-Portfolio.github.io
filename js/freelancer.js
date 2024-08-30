@@ -6,12 +6,18 @@
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
+    // Define the offset (e.g., the height of your fixed navbar)
+    var offset = 50; // Change this value to whatever offset you need
+
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
+        var targetOffset = $($anchor.attr('href')).offset().top - offset;
+        
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
+            scrollTop: targetOffset
         }, 1500, 'easeInOutExpo');
-        event.preventDefault();
+
+        event.preventDefault(); // Prevent default anchor click behavior
     });
 });
 
