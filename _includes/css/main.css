@@ -170,7 +170,7 @@ header {
     }
 
     header. .intro-text {
-        top: 50%;
+        top: 20%;
         transform: translate(-50%, -50%);
     }
 
