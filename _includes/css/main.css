@@ -507,24 +507,10 @@ ul.list-inline li {
 }
 
 /* Invert colors on hover */
-.scroll-top .btn:hover,
-.scroll-top .btn:focus,
-.scroll-top .btn:active {
-    background-color: #fff; /* White background on hover/focus/active */
-    color: #{{ site.color.primary }}; /* Primary color text */
-    border-color: #{{ site.color.primary }}; /* Primary color border */
-}
-
-/* Ensure that the button doesn't have focus outline */
-.scroll-top .btn:focus {
-    outline: none; /* Remove default outline for focused state */
-}
-
-/* Handle touch interactions if necessary */
-.scroll-top .btn:active {
-    background-color: #fff; /* Same as hover for consistency */
-    color: #{{ site.color.primary }};
-    border-color: #{{ site.color.primary }};
+.scroll-top .btn:hover {
+    background-color: #fff; /* Invert to white */
+    color: #{{ site.color.primary }}; /* Invert the icon color to primary */
+    /* border-color: #{{ site.color.primary }}; /* Invert the border to primary color */
 }
 
 .btn-success {
@@ -541,12 +527,12 @@ ul.list-inline li {
     border-color: #{{ site.color.primary }};
 }
 
-.btn-success:active {
+/* .btn-success:active {
     background-color: #{{ site.color.primary }}; /* Maintain primary color on click */
-    color: #fff; /* Ensure text color is white */
-    border-color: #{{ site.color.primary }};
+/*    color: #fff; /* Ensure text color is white */
+/*    border-color: #{{ site.color.primary }};
     border-width: 2px; /* Set border width to 2px */
-}
+/*}*/
 
 /* Additional CSS to ensure focus and active states do not cause issues */
 .btn-success:focus,
