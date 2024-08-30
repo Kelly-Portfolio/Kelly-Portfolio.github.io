@@ -482,7 +482,7 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    margin-bottom: 0px; /* Space below the footer column */
+    margin-bottom: 50px; /* Space below the footer column */
 }
 
 footer .footer-below {
