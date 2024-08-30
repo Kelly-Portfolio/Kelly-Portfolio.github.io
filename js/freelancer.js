@@ -27,9 +27,26 @@ $(function() {
 });
 
 // Highlight the top nav as scrolling occurs
-$('body').scrollspy({
-    target: '.navbar-fixed-top'
-})
+$(function() {
+    // Initialize Scrollspy
+    $('body').scrollspy({
+        target: '.navbar-fixed-top',
+        offset: 60 // Adjust based on the height of your navbar
+    });
+
+    // Add custom scroll event listener
+    $(window).on('scroll', function() {
+        var scrollDistance = $(window).scrollTop();
+        var windowHeight = $(window).height();
+        var documentHeight = $(document).height();
+
+        // Check if we've reached the bottom of the page
+        if ($(window).scrollTop() + windowHeight >= documentHeight - 10) { // Adjust -10 if necessary
+            $('.navbar-nav li').removeClass('active'); // Remove active class from all navbar items
+            $('.navbar-nav li a[href="#footer"]').parent().addClass('active'); // Add active class to #footer link
+        }
+    });
+});
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
