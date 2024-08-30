@@ -469,7 +469,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-   /*  color: #fff;*/
+    color: #fff;
 }
 
 footer h3 {
@@ -485,10 +485,10 @@ footer .footer-col {
     margin-bottom: 50px; /* Space below the footer column */
 }
 
-footer .footer-below {
+/*footer .footer-below {
     padding: 25px 0;
     background-color: #{{ site.color.secondary-dark }};
-}
+}*/
 
 ul.list-inline {
     padding-left: 0; /* Remove default padding from the list */
