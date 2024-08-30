@@ -31,7 +31,6 @@ $(function() {
     // Initialize Scrollspy
     $('body').scrollspy({
         target: '.navbar-fixed-top',
-        offset: 60 // Adjust based on the height of your navbar
     });
 
     // Add custom scroll event listener
