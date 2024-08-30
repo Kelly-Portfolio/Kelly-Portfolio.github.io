@@ -260,13 +260,15 @@ section.success {
     right: 0;
     margin: 0 0 15px;
     overflow: hidden; /* Ensure that enlarged images don't overflow the container */
+    position: relative;
+    width: 100%; /* Make sure the container takes up the full width of its parent */
 }
 
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 100%;
 }
 
 /* Create an overlay using the ::before pseudo-element */
@@ -289,6 +291,8 @@ section.success {
 
 /* Styling for the image with the hover scale effect */
 #portfolio .portfolio-item .portfolio-image {
+    width: 100%; /* Ensure the image fits within the container */
+    height: auto;
     transition: transform 0.3s ease; /* Smooth scaling effect */
     z-index: 1;
 }
