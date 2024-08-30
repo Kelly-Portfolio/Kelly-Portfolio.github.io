@@ -7,7 +7,7 @@
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     // Define the offset (e.g., the height of your fixed navbar)
-    var offset = 50; // Change this value to whatever offset you need
+    var offset = -50; // Change this value to whatever offset you need
 
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
