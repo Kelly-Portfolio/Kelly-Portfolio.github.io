@@ -31,6 +31,7 @@ $(function() {
     // Initialize Scrollspy
     $('body').scrollspy({
         target: '.navbar-fixed-top',
+        offset: 50 // Adjust based on your navbar height
     });
 
     // Add custom scroll event listener
@@ -40,9 +41,19 @@ $(function() {
         var documentHeight = $(document).height();
 
         // Check if we've reached the bottom of the page
-        if ($(window).scrollTop() + windowHeight >= documentHeight - 10) { // Adjust -10 if necessary
+        if (scrollDistance + windowHeight >= documentHeight - 10) { // Adjust -10 if necessary
             $('.navbar-nav li').removeClass('active'); // Remove active class from all navbar items
             $('.navbar-nav li a[href="#footer"]').parent().addClass('active'); // Add active class to #footer link
+        } else {
+            // Ensure the correct link is active based on scroll position
+            $('.navbar-nav li').removeClass('active');
+            $('section').each(function() {
+                var sectionOffset = $(this).offset().top;
+                if (scrollDistance >= sectionOffset - 50) { // Adjust based on navbar height
+                    var sectionId = $(this).attr('id');
+                    $('.navbar-nav li a[href="#' + sectionId + '"]').parent().addClass('active');
+                }
+            });
         }
     });
 });
