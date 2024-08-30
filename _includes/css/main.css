@@ -528,21 +528,21 @@ ul.list-inline li {
 }
 
 /* .btn-success:active {
-    background-color: #{{ site.color.primary }}; /* Maintain primary color on click */
+/*    background-color: #{{ site.color.primary }}; /* Maintain primary color on click */
 /*    color: #fff; /* Ensure text color is white */
 /*    border-color: #{{ site.color.primary }};
-    border-width: 2px; /* Set border width to 2px */
+/*    border-width: 2px; /* Set border width to 2px */
 /*}*/
 
 /* Additional CSS to ensure focus and active states do not cause issues */
-.btn-success:focus,
-.btn-success:active:focus {
-    background-color: #{{ site.color.primary }}; /* Maintain primary color on click */
-    color: #fff; /* Ensure text color is white */
-    border-color: #{{ site.color.primary }};
-    border-width: 2px; /* Set border width to 2px */
-    outline: none; /* Remove default focus outline */
-}
+/*.btn-success:focus,
+/*.btn-success:active:focus {
+/*    background-color: #{{ site.color.primary }}; /* Maintain primary color on click */
+/*    color: #fff; /* Ensure text color is white */
+/*    border-color: #{{ site.color.primary }};
+/*    border-width: 2px; /* Set border width to 2px */
+/*    outline: none; /* Remove default focus outline */
+/*}*/
 
 .portfolio-modal .modal-content {
     padding: 100px 0;
