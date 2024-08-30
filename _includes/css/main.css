@@ -336,6 +336,7 @@ section.success {
 /* Hover effect: scale the image */
 #portfolio .portfolio-item:hover .portfolio-image {
     transform: scale(1.1); /* Scale the image to 110% of its original size */
+    overflow: hidden; 
 }
 
 /* Styling for the portfolio title */
