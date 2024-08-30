@@ -31,29 +31,25 @@ $(function() {
     // Initialize Scrollspy
     $('body').scrollspy({
         target: '.navbar-fixed-top',
-        offset: 50 // Adjust based on your navbar height
+        offset: 60 // Adjust based on the height of your navbar
     });
 
-    // Add custom scroll event listener
+    // Custom scroll handling
     $(window).on('scroll', function() {
         var scrollDistance = $(window).scrollTop();
         var windowHeight = $(window).height();
         var documentHeight = $(document).height();
 
         // Check if we've reached the bottom of the page
-        if (scrollDistance + windowHeight >= documentHeight - 10) { // Adjust -10 if necessary
+        if ($(window).scrollTop() + windowHeight >= documentHeight - 10) { // Adjust -10 if necessary
+            // Temporarily deactivate scrollspy to prevent conflicts
+            $('body').data('bs.scrollspy', null);
+
             $('.navbar-nav li').removeClass('active'); // Remove active class from all navbar items
             $('.navbar-nav li a[href="#footer"]').parent().addClass('active'); // Add active class to #footer link
         } else {
-            // Ensure the correct link is active based on scroll position
-            $('.navbar-nav li').removeClass('active');
-            $('section').each(function() {
-                var sectionOffset = $(this).offset().top;
-                if (scrollDistance >= sectionOffset - 50) { // Adjust based on navbar height
-                    var sectionId = $(this).attr('id');
-                    $('.navbar-nav li a[href="#' + sectionId + '"]').parent().addClass('active');
-                }
-            });
+            // Reactivate scrollspy
+            $('body').scrollspy('refresh');
         }
     });
 });
