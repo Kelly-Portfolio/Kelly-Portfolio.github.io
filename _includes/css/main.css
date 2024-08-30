@@ -351,6 +351,11 @@ section.success {
     transition: opacity 0.3s ease; /* Smooth transition for title */
 }
 
+#portfolio .portfolio-item {
+    position: relative;
+    overflow: hidden; /* Prevent image from overflowing */
+}
+
 /* Hover effect: show the title */
 #portfolio .portfolio-item:hover .portfolio-title {
     opacity: 1;
