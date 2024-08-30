@@ -166,7 +166,7 @@ header {
         width: 100%;
         height: auto;
         object-fit: cover;
-        min-height: 200px; /* Ensure a minimum height to prevent cutting off content */
+        min-height: 300px; /* Ensure a minimum height to prevent cutting off content */
     }
 
     header. .intro-text {
