@@ -14,7 +14,7 @@ p {
 }
 
 p.small {
-    font-size: $font-size-small;
+    font-size: 16px; /*you should also change it in the btn-success down below, which uses the same font size*/
 }
 
 a,
@@ -530,6 +530,7 @@ ul.list-inline li {
     color: #fff; /* Ensure text color is white */
     font-family: Archivo, Tahoma, Arial, sans-serif;
     font-weight: bold;
+    font-size: 16px; /* Set the text size to font small*/
     transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Smooth transition */
 }
 
