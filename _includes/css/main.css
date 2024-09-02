@@ -614,7 +614,7 @@ ul.list-inline li {
     -webkit-transform: translateZ(0);
 }
 
-/* Custom styles */
+/* Custom styles, vgm doet dit niks hier */
 #about img {
     max-width: 100%; /* Ensure image scales with its container */
     height: auto;    /* Maintain aspect ratio */
@@ -626,13 +626,3 @@ ul.list-inline li {
     margin-bottom: 15px; /* Optional: Add space between paragraphs */
   }
  
-  /* Collapse */
-  #moreText {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.5s ease-in-out;
-  }
-  
-  #moreText.show {
-    max-height: 1000px; /* Adjust this value based on the expected content height */
-  }
