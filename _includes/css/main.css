@@ -518,6 +518,8 @@ ul.list-inline li {
     border-color: #{{ site.color.secondary }};
     border-width: 2px; /* Set border width to 2px */
     color: #fff; /* Ensure text color is white */
+    text-transform: uppercase;
+    font-family: Archivo,Tahoma,Arial,sans-serif;
     transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Smooth transition */
 }
 
