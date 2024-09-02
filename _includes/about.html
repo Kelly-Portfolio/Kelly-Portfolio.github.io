@@ -52,18 +52,33 @@
   </div>
 </section>
 
-<!-- See More button js script -->
-<script>
-  document.getElementById("seeMoreBtn").addEventListener("click", function() {
-    var moreText = document.getElementById("moreText");
-    var btnText = this;
-
-    if (moreText.style.display === "none") {
-      moreText.style.display = "block";
-      btnText.textContent = "See Less";
-    } else {
-      moreText.style.display = "none";
-      btnText.textContent = "See More";
-    }
-  });
-</script>
+<style>
+  /* Initially, the hidden content has a max-height of 0 and is hidden */
+  #moreText {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+  }
+  
+  /* When the show class is added, the content expands */
+  #moreText.show {
+    max-height: 1000px; /* Adjust this based on content height */
+  }
+  </style>
+  
+  <!-- See More button JS script -->
+  <script>
+    document.getElementById("seeMoreBtn").addEventListener("click", function() {
+      var moreText = document.getElementById("moreText");
+      var btnText = this;
+  
+      if (moreText.classList.contains("show")) {
+        moreText.classList.remove("show");
+        btnText.textContent = "See More";
+      } else {
+        moreText.classList.add("show");
+        btnText.textContent = "See Less";
+      }
+    });
+  </script>
+  
