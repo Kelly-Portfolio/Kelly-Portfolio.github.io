@@ -1,14 +1,14 @@
 <script>
   document.getElementById("seeMoreBtn").addEventListener("click", function() {
     var moreText = document.getElementById("moreText");
-    var btnText = document.getElementById("seeMoreBtn");
+    var btnText = this;
 
-    if (moreText.classList.contains("show")) {
-      moreText.classList.remove("show");
-      btnText.textContent = "See More";
-    } else {
-      moreText.classList.add("show");
+    if (moreText.style.display === "none") {
+      moreText.style.display = "block";
       btnText.textContent = "See Less";
+    } else {
+      moreText.style.display = "none";
+      btnText.textContent = "See More";
     }
   });
 </script>
