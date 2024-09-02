@@ -518,7 +518,7 @@ ul.list-inline li {
     border-color: #{{ site.color.secondary }};
     border-width: 2px; /* Set border width to 2px */
     color: #fff; /* Ensure text color is white */
-    font-family: Archivo,Tahoma,Arial,sans-serif;
+    font-family: Archivo, Tahoma, Arial, sans-serif;
     font-weight: bold;
     transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Smooth transition */
 }
@@ -529,19 +529,11 @@ ul.list-inline li {
     border-color: #{{ site.color.secondary }};
 }
 
-.btn-success:active {
+.btn-success:active,
+.btn-success:focus {
     background-color: #{{ site.color.secondary }}; /* Maintain primary color on click */
     color: #fff; /* Ensure text color is white */
     border-color: #{{ site.color.secondary }};
-    border-width: 2px; /* Set border width to 2px */
-}
-
-/* Additional CSS to ensure focus and active states do not cause issues */
-.btn-success:focus,
-.btn-success:active:focus {
-    background-color: #{{ site.color.secondary }}; /* Maintain primary color on click */
-    color: #fff; /* Ensure text color is white */
-    border-color: #{{ site.color.secondary}};
     border-width: 2px; /* Set border width to 2px */
     outline: none; /* Remove default focus outline */
 }
