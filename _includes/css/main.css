@@ -462,7 +462,7 @@ footer .footer-col {
 ul.list-inline {
     display: grid;
     grid-auto-flow: column;
-    grid-gap: 10px; /* Controls space between centers */
+    grid-gap: 20px; /* Controls space between centers */
     justify-content: center;
     padding-left: 0;
     margin: 0;
