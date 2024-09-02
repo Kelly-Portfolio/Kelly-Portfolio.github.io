@@ -519,7 +519,7 @@ ul.list-inline li {
     border-width: 2px; /* Set border width to 2px */
     color: #fff; /* Ensure text color is white */
     font-family: Archivo,Tahoma,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Smooth transition */
 }
 
