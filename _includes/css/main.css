@@ -460,33 +460,35 @@ footer .footer-col {
 }*/
 
 ul.list-inline {
+    display: flex;
+    justify-content: center; /* Center the items horizontally */
+    align-items: center; /* Align items along the cross axis */
     padding-left: 0;
     margin: 0;
+    list-style-type: none; /* Remove bullets */
 }
 
 ul.list-inline li {
-    display: inline-block;
-    margin: 0 10px; /* Add equal margin to left and right */
-}
-
-ul.list-inline li:first-child {
-    margin-left: 0; /* Remove left margin for the first item */
-}
-
-ul.list-inline li:last-child {
-    margin-right: 0; /* Remove right margin for the last item */
+    display: flex;
+    flex-direction: column; /* Stack button and description vertically */
+    align-items: center; /* Center the button and text */
+    margin: 0 20px; /* Adjust the spacing between items */
 }
 
 .btn-social {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 50px;
     height: 50px;
     border: 2px solid #fff;
-    border-radius: 100%;
-    text-align: center;
+    border-radius: 50%;
     font-size: 20px;
-    line-height: 45px;
-    margin-bottom: 10px; /* Add space between the button and description */
+    margin-bottom: 10px; /* Space between the button and description */
+}
+
+.social-description {
+    text-align: center; /* Center the description text */
 }
 
 .btn:focus,
