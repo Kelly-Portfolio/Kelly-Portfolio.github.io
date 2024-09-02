@@ -472,7 +472,7 @@ ul.list-inline li {
     display: flex;
     flex-direction: column; /* Stack button and description vertically */
     align-items: center; /* Center the button and text */
-    margin: 0 20px; /* Adjust the spacing between items */
+    margin: 0 10px; /* Adjust the spacing between items */
 }
 
 .btn-social {
