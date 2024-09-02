@@ -529,9 +529,16 @@ ul.list-inline li {
     border-color: #{{ site.color.secondary }};
 }
 
-.btn-success:active,
-.btn-success:focus {
+.btn-success:active {
     background-color: #{{ site.color.secondary }}; /* Maintain primary color on click */
+    color: #fff; /* Ensure text color is white */
+    border-color: #{{ site.color.secondary }};
+    border-width: 2px; /* Set border width to 2px */
+}
+
+/* Ensure focus does not persist unless explicitly focused */
+.btn-success:focus {
+    background-color: #{{ site.color.secondary }}; /* Maintain primary color */
     color: #fff; /* Ensure text color is white */
     border-color: #{{ site.color.secondary }};
     border-width: 2px; /* Set border width to 2px */
