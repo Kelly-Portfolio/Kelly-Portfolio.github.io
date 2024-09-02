@@ -625,4 +625,12 @@ ul.list-inline li {
   #about p {
     margin-bottom: 15px; /* Optional: Add space between paragraphs */
   }
+
+/* Collapse function*/  
+  .collapse {
+    display: none;
+  }
   
+  .collapse.show {
+    display: block;
+  }  
