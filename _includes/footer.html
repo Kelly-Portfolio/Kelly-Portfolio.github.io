@@ -20,7 +20,7 @@
               <a href="{% if network.title == 'envelope' %}mailto:{{ network.url }}{% else %}{{ network.url }}{% endif %}" class="btn-social btn-outline" target="_blank" rel="noopener noreferrer">
                 <i class="{% if network.title == 'envelope' or network.title == 'file' %}fa-solid{% else %}fa-brands{% endif %} fa-{{ network.title }}"></i>
               </a>
-              <p class="social-description">{{ network.description }}</p>
+              <p class="small social-description">{{ network.description }}</p>
             </li>
             {% endfor %}
          </ul>
