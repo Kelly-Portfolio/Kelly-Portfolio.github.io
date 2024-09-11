@@ -1,8 +1,8 @@
 ---
-title: Title
+title: Template
 subtitle: Subtitle
 layout: default
-modal-id: 2
+modal-id: 0
 date: 2024-01-01
 small-img: img/portfolio/cake.png
 img: img/portfolio/cake.png
