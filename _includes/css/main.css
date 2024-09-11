@@ -656,9 +656,3 @@ ul.list-inline li {
     margin-top: 0px; /* Adjust this to control spacing between the image and text */
     font-style: italic;
 }
-
-  /* video*/
-.video-container iframe {
-    transform: scale(1.33); /* Scale by 33% */
-    transform-origin: top left; /* Keeps the video positioned correctly when scaled */
-  }
