@@ -575,7 +575,7 @@ ul.list-inline li {
 }
 
 .portfolio-modal .modal-content b {
-    margin-bottom: 0px;
+    margin-bottom: -10px;
 }
 .portfolio-modal .modal-content img {
     margin-bottom: 0px;
