@@ -26,14 +26,19 @@
                 <strong>{{ post.client }}</strong>
               </li>
               {% endif %}
-              {% if post.project-date %}
-              <li>Date:
-                <strong>{{ post.project-date }}</strong>
+              {% if post.course%}
+              <li>Client:
+                <strong>{{ post.course }}</strong>
               </li>
               {% endif %}
-              {% if post.category %}
+              {% if post.team %}
+              <li>Date:
+                <strong>{{ post.team }}</strong>
+              </li>
+              {% endif %}
+              {% if post.deliverables %}
               <li>Service:
-                <strong>{{ post.category }}</strong>
+                <strong>{{ post.deliverables}}</strong>
               </li>
               {% endif %}
             </ul>
