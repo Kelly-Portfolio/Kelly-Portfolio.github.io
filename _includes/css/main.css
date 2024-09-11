@@ -653,6 +653,6 @@ ul.list-inline li {
 
 .image-text-block i {
     display: block; /* This ensures the text appears directly below the image */
-    margin-top: 5px; /* Adjust this to control spacing between the image and text */
+    margin-top: 0px; /* Adjust this to control spacing between the image and text */
     font-style: italic;
 }
