@@ -57,7 +57,7 @@ H4h3img2: img/portfolio2024/MBY/IMG_8808.JPG
 H4h3img2text: Made-By-You Senseo prototype backside
 H4h4: Impact and User Experience
 H4h4text: The "Made-By-You" concept not only increases user awareness of a product's components through the assembly process but also indirectly encourages consideration of repairs. By providing a central hub for all product-related information, the repair process becomes more straightforward and approachable. To enhance the story and user experience, I created two user journeys, which have also been transformed into a short video, along with a detailed service blueprint that outlines the behind-the-scenes activities necessary to support the PSS.
-H4h4img1: img/portfolio2024/MBY/Assembly vert  MBY@3x.png
+H4h4img1: img/portfolio2024/MBY/Assembly vert  MBY@3x crop.png
 H4h4img1text: Storyboard of using the application to guide the assembly of the MadeBy-You Senseo
 H4h4img2: img/portfolio2024/MBY/Service blueprint assemlby.png
 H4h4img2text: Service blueprint of the application during assembly
