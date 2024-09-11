@@ -46,6 +46,8 @@ H3h1img1text: Ideation collage
 
 H4: "Assemblable Electronics: A Proof of Concept"
 H4h1text: The final concept, "Made-By-You," is an innovative product-service system (PSS) where users are empowered to design and assemble their own electronics. The product arrives in easily assemblable parts, allowing users to quickly and effortlessly put it together, thereby fostering familiarity with the product and basic handiwork skills. This system also enables customization without the need for a traditional assembly line.
+H4h1img1: img/portfolio2024/MBY/Post 3-100.jpg
+H4h1img1text: Final concept Made-By-You electronics, assemblable electronics to stimulate repair willingness
 H4h2: Service Integration
 H4h2text: Accompanying the product is a comprehensive service, in the form of an application, that guides users through the assembly process and assists with repairs. This service centralizes information that is typically scattered across various channels into a single, user-friendly application, lowering the barrier for those who wish to repair their products. By creating a central hub of streamlined information, the service simplifies the repair process, making it more accessible and less intimidating for consumers.
 H4h2img1: img/portfolio2024/MBY/App features infograph.png
@@ -57,7 +59,7 @@ H4h3img1text: Made-By-You Senseo prototype
 H4h3img2: img/portfolio2024/MBY/IMG_8808.JPG
 H4h3img2text: Made-By-You Senseo prototype backside
 H4h4: Impact and User Experience
-H4h4text: The "Made-By-You" concept not only increases user awareness of a product's components through the assembly process but also indirectly encourages consideration of repairs. By providing a central hub for all product-related information, the repair process becomes more straightforward and approachable. To enhance the story and user experience, I created two user journeys, which have also been transformed into a short video, along with a detailed service blueprint that outlines the behind-the-scenes activities necessary to support the PSS.
+H4h4text: The "Made-By-You" concept not only increases user awareness of a product's components through the assembly process but also indirectly encourages consideration of repairs. By providing a central hub for all product-related information, the repair process becomes more straightforward and approachable. To enhance the story and user experience, I created two user journeys, which have also been transformed into a short video shown at the top of this page, along with a detailed service blueprint that outlines the behind-the-scenes activities necessary to support the PSS.
 H4h4img1: img/portfolio2024/MBY/Assembly vert  MBY@3x crop.png
 H4h4img1text: Storyboard of using the application to guide the assembly of the MadeBy-You Senseo
 H4h4img2: img/portfolio2024/MBY/Service blueprint assemlby.png
