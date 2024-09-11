@@ -1,4 +1,31 @@
 ---
+title: Title
+subtitle: Subtitle
+layout: default
+modal-id: 2
+date: 2024-01-01
+small-img: img/portfolio/cake.png
+img: img/portfolio/cake.png
+alt: image-alt
+
+ProjectOverview: introduction text
+
+course: Course
+duration: N weeks
+team: n students
+deliverables: A something, something
+
+H1: Heading 1
+H1h1: Sub heading 1
+H1h1text: text 1
+H1h1img1: img/portfolio/cake.png
+H1h1img1text: Cake
+H1h2: Sub heading 2
+H1h2text: My research led to the organization of activities aimed at boosting repair willingness, which I mapped into a consumer decision-making model called the I-change model. Alongside a SWOT analysis, this model revealed four key opportunities to enhance consumers' willingness to repair their electronics, which are outlined in the following section.
+H1h2img1: img/portfolio2024/MBY/Sort again copy.png
+H1h2img1text: Consumer decision-making in context
+H1h2img2: img/portfolio2024/MBY/V2.png
+H1h2img2text: Four identified key opportunities above and the current context below
 layout: default
 modal-id: 2
 date: 2014-07-17

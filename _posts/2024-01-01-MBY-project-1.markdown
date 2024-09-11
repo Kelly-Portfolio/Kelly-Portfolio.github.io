@@ -7,6 +7,7 @@ date: 2024-01-01
 small-img: img/portfolio2024/MBY/Small-img-MBY.png
 img: img/portfolio2024/MBY/Post 3-100.jpg
 alt: image-alt
+
 ProjectOverview: In today’s world, nearly 60% of consumers discard their electronics instead of opting for repairs, contributing to substantial waste and loss of value. This behavior underscores the need for a shift towards a circular economy, where products are maintained and reused to extend their lifecycle. My Master's thesis focused on addressing this issue by exploring the circular economy, analyzing consumer behavior, and understanding the broader sustainability context, particularly in relation to electronic devices. again
 
 course: Graduation Project
@@ -22,7 +23,9 @@ H1h1img1text: Stakeholder mapping
 H1h2: Key Findings and Consumer Insights
 H1h2text: My research led to the organization of activities aimed at boosting repair willingness, which I mapped into a consumer decision-making model called the I-change model. Alongside a SWOT analysis, this model revealed four key opportunities to enhance consumers' willingness to repair their electronics, which are outlined in the following section.
 H1h2img1: img/portfolio2024/MBY/Sort again copy.png
+H1h2img1text: Consumer decision-making in context
 H1h2img2: img/portfolio2024/MBY/V2.png
+H1h2img2text: Four identified key opportunities above and the current context below
 
 H2: Opportunities for the Future
 H2h1: Defining the Vision
