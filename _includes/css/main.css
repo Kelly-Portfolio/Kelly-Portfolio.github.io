@@ -643,7 +643,7 @@ ul.list-inline li {
   /* italics below images in modals are not too far away and become containers*/
 .image-text-block {
     text-align: center; /* Or left, if you prefer */
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .image-text-block img {
@@ -653,6 +653,6 @@ ul.list-inline li {
 
 .image-text-block i {
     display: block; /* This ensures the text appears directly below the image */
-    margin-top: 10px; /* Adjust this to control spacing between the image and text */
+    margin-top: 5px; /* Adjust this to control spacing between the image and text */
     font-style: italic;
 }
