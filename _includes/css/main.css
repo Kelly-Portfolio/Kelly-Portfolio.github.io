@@ -574,6 +574,9 @@ ul.list-inline li {
     font-size: 3em;
 }
 
+.portfolio-modal .modal-content b {
+    margin: 0;
+}
 .portfolio-modal .modal-content img {
     margin-bottom: 0px;
 }
