@@ -1,9 +1,9 @@
 ---
-title: My Awesome Project
+title: Made-By-You
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: portfolio/cabin.png
+img: portfolio2024/MBY/Post 3-100.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
