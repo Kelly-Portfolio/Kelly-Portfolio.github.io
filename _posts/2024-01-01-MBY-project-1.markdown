@@ -17,5 +17,5 @@ deliverables: A report, a final presentation, and a video
 H1: Challenging the Non-Repair Culture
 H1h1: Research Approach
 H1h1text: To gain a comprehensive perspective on the problem, I conducted extensive literature reviews and field research on existing sustainability initiatives. This dual approach allowed me to deeply understand how people experience sustainability and interact with their electronic products. It also provided specialized knowledge of the key stakeholders involved in promoting repair culture. 
-
+H1h1img1: img/portfolio2024/MBY/Stakeholders.png
 ---
