@@ -18,6 +18,10 @@ deliverables: A report, a final presentation, and a video
 H1: Challenging the Non-Repair Culture
 H1H1: Research Approach
 H1H1text: To gain a comprehensive perspective on the problem, I conducted extensive literature reviews and field research on existing sustainability initiatives. This dual approach allowed me to deeply understand how people experience sustainability and interact with their electronic products. It also provided specialized knowledge of the key stakeholders involved in promoting repair culture. 
-H1img: portfolio2024/MBY/Stakeholders.png
+H1H1img1: portfolio2024/MBY/Stakeholders.png
+H1H2: Key Findings and Consumer Insights
+H1H2text: My research led to the organization of activities aimed at boosting repair willingness, which I mapped into a consumer decision-making model called the I-change model. Alongside a SWOT analysis, this model revealed four key opportunities to enhance consumers' willingness to repair their electronics, which are outlined in the following section.
+H1H2img1: portfolio2024/MBY/Sort again copy.png
+H1H2img2: portfolio2024/MBY/V2.png
 
 ---

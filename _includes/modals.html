@@ -55,8 +55,20 @@
             {% if post.H1H1text %}
             <p style="text-align: left;">{{ post.H1H1text}}</p>
             {% endif %}
-            {% if post.H1img %}
-            <img src="img/{{ post.H1img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% if post.H1H1img1 %}
+            <img src="img/{{ post.H1H1img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% endif %}
+            {% if post.H1H2 %}
+            <p style="text-align: left;"><b>{{ post.H1H2 }}</b></p>
+            {% endif %}
+            {% if post.H1H2text %}
+            <p style="text-align: left;">{{ post.H1H2text}}</p>
+            {% endif %}
+            {% if post.H1H2img1 %}
+            <img src="img/{{ post.H1H2img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% endif %}
+            {% if post.H1H2img2 %}
+            <img src="img/{{ post.H1H2img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% endif %}
 
             <button type="button" class="btn btn-success" data-dismiss="modal"><i class="fa fa-times"></i>
