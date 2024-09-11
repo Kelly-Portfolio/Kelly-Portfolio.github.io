@@ -18,7 +18,15 @@
             <br>
             <h4>{{ post.subtitle }}</h4>
             <!-- <hr class="star-primary">  -->
-            <img src="{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% if post.video%}
+              <div class="video-container">
+                <iframe width="560" height="315" src="{{ post.video }}" 
+                  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                </iframe>
+              </div>
+              {% else %}
+                <img src="{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% endif %}
             <br>
 
             {% if post.ProjectOverview %}
