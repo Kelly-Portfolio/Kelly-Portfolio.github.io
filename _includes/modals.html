@@ -14,10 +14,11 @@
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
+            <h4>{{ post.subtitle }}</h4>
             <!-- <hr class="star-primary">  -->
             <img src="img/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            {% if post.description %}
-            <p>{{ post.description }}</p>
+            {% if post.ProjectOverview %}
+            <p>{{ post.ProjectOverview}}</p>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
@@ -36,6 +37,8 @@
               </li>
               {% endif %}
             </ul>
+            {% if post.description %}
+            <p>{{ post.description }}</p>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>
