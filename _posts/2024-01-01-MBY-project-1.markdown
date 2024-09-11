@@ -4,8 +4,8 @@ subtitle: A product service system that stimulates people to be more willing to 
 layout: default
 modal-id: 1
 date: 2024-01-01
+small-img: img/portfolio2024/MBY/Small-img-MBY.png
 
-small-img: img/portfolio/cake.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
