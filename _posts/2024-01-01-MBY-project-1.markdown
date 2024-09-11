@@ -20,5 +20,7 @@ H1h1text: To gain a comprehensive perspective on the problem, I conducted extens
 H1h1img1: img/portfolio2024/MBY/Stakeholders.png
 H1h2: Key Findings and Consumer Insights
 H1h2text: My research led to the organization of activities aimed at boosting repair willingness, which I mapped into a consumer decision-making model called the I-change model. Alongside a SWOT analysis, this model revealed four key opportunities to enhance consumers' willingness to repair their electronics, which are outlined in the following section.
+H1h2img1: img/portfolio2024/MBY/Sort again copy.png
+H1h2img2: img/portfolio2024/MBY/V2.png
 
 ---
