@@ -15,5 +15,9 @@ duration: 20 weeks
 team: individual
 deliverables: A report, a final presentation, and a video
 
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+H1: Challenging the Non-Repair Culture
+H1H1: Research Approach
+H1H1text: To gain a comprehensive perspective on the problem, I conducted extensive literature reviews and field research on existing sustainability initiatives. This dual approach allowed me to deeply understand how people experience sustainability and interact with their electronic products. It also provided specialized knowledge of the key stakeholders involved in promoting repair culture. 
+H1img: portfolio2024/MBY/Stakeholders.png
+
 ---
