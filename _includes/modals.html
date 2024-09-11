@@ -15,7 +15,7 @@
           <div class="modal-body">
 
             <h2>{{ post.title }}</h2>
-            <h3>{{ post.subtitle }}</h3>
+            <h4>{{ post.subtitle }}</h4>
             <!-- <hr class="star-primary">  -->
             <img src="img/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 
@@ -50,7 +50,7 @@
             <h4>{{ post.H1}}</h4><br>
             {% endif %}
             {% if post.H1H1 %}
-            <b style="text-align: left;">{{ post.H1H1 }}</b>
+            <p style="text-align: left;"><b>{{ post.H1H1 }}</b></p>
             {% endif %}
             {% if post.H1H1text %}
             <p style="text-align: left;">{{ post.H1H1text}}</p>
