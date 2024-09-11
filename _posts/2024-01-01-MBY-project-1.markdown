@@ -25,9 +25,10 @@ H1h2img2: img/portfolio2024/MBY/V2.png
 
 H2: Opportunities for the Future
 H2h1: Defining the Vision
-H2h1text: While identifying the four key opportunities, it became clear that these insights needed a cohesive direction to shape a compelling vision for change. To conceptualize this vision, I used an analogy: the design should inspire the same pride and excitement users feel when showcasing their driving skills after obtaining a driver’s license. This analogy guided the development of a design that not only meets the identified opportunities but also resonates emotionally with users.
+H2h1text: While identifying the four key opportunities, it became clear that these insights needed a cohesive direction to shape a compelling vision for change. To conceptualize this vision, I used an analogy "the design should inspire the same pride and excitement users feel when showcasing their driving skills after obtaining a driver’s license". This analogy guided the development of a design that not only meets the identified opportunities but also resonates emotionally with users.
 H2h1img1: img/portfolio2024/MBY/Feel like.png
 H2h2: Design Requirements
 H2h2text: The insights gathered from consumer behavior studies and theories on repair willingness formed the basis for four categories of design requirements. These requirements were critical in shaping a design that would effectively encourage consumers to repair their electronics rather than discard them.
+H2h2img1: img/portfolio2024/MBY/The pieces of the design@3x.png
 
 ---
