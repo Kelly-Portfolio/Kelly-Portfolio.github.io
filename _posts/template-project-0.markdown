@@ -100,7 +100,7 @@ H2h4img3text: img 2.43
 H2h4img4: img/portfolio/cake.png
 H2h4img4text: img 2.44
 
-H3: Heading 2
+H3: Heading 3
 H3h1: Sub heading 3.1
 H3h1text: Text 3.1
 H3h1img1: img/portfolio/cake.png
@@ -142,7 +142,7 @@ H3h4img3text: img 3.43
 H3h4img4: img/portfolio/cake.png
 H3h4img4text: img 3.44
 
-H4: Heading 2
+H4: Heading 4
 H4h1: Sub heading 4.1
 H4h1text: Text 4.1
 H4h1img1: img/portfolio/cake.png
