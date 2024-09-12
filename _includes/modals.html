@@ -34,6 +34,10 @@
               <p><em><br /> "It is understandable, as the medical facilities at the rural hospital are <strong>inferior</strong>."</em></p>
             {% endif %}
 
+            {% if post.quote%}
+              <p><em>{{ post.quote }}</em></p>
+            {% endif %}
+
             {% if post.ProjectOverview %}
               <p style="text-align: left;">{{ post.ProjectOverview }}</p>
             {% endif %}
