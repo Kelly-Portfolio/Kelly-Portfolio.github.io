@@ -7,7 +7,7 @@ modal-id: 7
 date: 2024-01-01
 small-img: img/portfolio/cake.png
 img: img/portfolio/cake.png
-video: https://www.youtube.com/embed/OucIFC-FWE0?si=DjVhZIUdDwQP1C1d
+video: https://www.youtube.com/embed/dZxPwnhh4eg?si=Cwx0BciQ5pWAYNYf
 alt: image-alt
 
 quote: quotes
