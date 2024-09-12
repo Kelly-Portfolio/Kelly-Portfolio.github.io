@@ -78,7 +78,8 @@
             {% if post.H1h1text %}
               <p style="text-align: left;margin-top: 0;">{{ post.H1h1text}}</p>
             {% endif %}
-            <ul class="list-inline item-details"></ul>
+
+            <ul class="list-inline item-details">
               {% if post.client1 %}
               <li>Client
                 <strong>{{ post.client1 }}</strong>
@@ -100,6 +101,7 @@
               </li>
               {% endif %}
             </ul>
+
             {% if post.H1h1img1 %}
               <div class="image-text-block">
                 <img src="{{ post.H1h1img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
