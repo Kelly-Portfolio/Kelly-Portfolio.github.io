@@ -15,7 +15,7 @@ client: Inventum
 course: Bachelor End Project
 duration: 10 weeks
 team: Individual
-deliverables: A final presentation and poster.
+deliverables: A final presentation and poster
 
 H1: Rethinking the Indoor Climate
 H1h1: Research and Analysis

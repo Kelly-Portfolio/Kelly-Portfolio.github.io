@@ -17,7 +17,7 @@ client: Barco
 course: Design Strategy Project
 duration: 8 weeks
 team: 5 students
-deliverables: Final presentation and report to Barco, followed by an additional presentation to another branch of the company.
+deliverables: Final presentation and report to Barco, followed by an additional presentation to another branch of the company
 
 H1: Finding a New Opportunity in China
 H1h1: The Challenge
