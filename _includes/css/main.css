@@ -674,11 +674,3 @@ ul.list-inline li {
     width: 100%;
     height: 100%;
   }
-
-  /* portfolio last row centered*/
-  .portfolio-flex-row {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust size */
-    gap: 20px; /* Adjust spacing between items */
-    justify-items: center; /* Center the items in the grid */
-  }
