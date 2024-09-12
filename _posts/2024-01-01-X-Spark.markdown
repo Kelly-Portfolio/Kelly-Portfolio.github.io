@@ -16,171 +16,37 @@ duration: 10 weeks
 team: 4 students
 deliverables: a presentation and a final report, which included brand positioning, and a launch campaign
 
-H1: Heading 1
-H1h1: Sub heading 1.1
-H1h1text: Text 1.1
-H1h1img1: img/portfolio/cake.png
-H1h1img1text: img 1.11
-H1h1img2: img/portfolio/cake.png
-H1h1img2text: img 1.12
-H1h1img3: img/portfolio/cake.png
-H1h1img3text: img 1.13
-H1h1img4: img/portfolio/cake.png
-H1h1img4text: img 1.14
-H1h2: Sub heading 1.2
-H1h2text: Text 1.2
-H1h2img1: img/portfolio/cake.png
-H1h2img1text: img 1.21
-H1h2img2: img/portfolio/cake.png
-H1h2img2text: img 1.22
-H1h2img3: img/portfolio/cake.png
-H1h2img3text: img 1.23
-H1h2img4: img/portfolio/cake.png
-H1h2img4text: img 1.24
-H1h3: Sub heading 1.3
-H1h3text: Text 1.3
-H1h3img1: img/portfolio/cake.png
-H1h3img1text: img 1.31
-H1h3img2: img/portfolio/cake.png
-H1h3img2text: img 1.32
-H1h3img3: img/portfolio/cake.png
-H1h3img3text: img 1.33
-H1h3img4: img/portfolio/cake.png
-H1h3img4text: img 1.34
-H1h4: Sub heading 1.4
-H1h4text: Text 1.4
-H1h4img1: img/portfolio/cake.png
-H1h4img1text: img 1.41
-H1h4img2: img/portfolio/cake.png
-H1h4img2text: img 1.42
-H1h4img3: img/portfolio/cake.png
-H1h4img3text: img 1.43
-H1h4img4: img/portfolio/cake.png
-H1h4img4text: img 1.44
+H1: Spirulina Meets the Market
+H1h1: Market Analysis
+H1h1text: To effectively position Spireaux in the market, we conducted a 4C analysis, examining the company (brand and product), competitors, consumers, and the broader market context. This analysis revealed that self-improving casual sport enthusiasts, who value health, sustainability, and convenience, represent the ideal target audience. These consumers are part of a growing movement focused on health and sustainability, and they appreciate products that are both ready-made and easy to consume. Using the strengths of Spireaux, it is possible to create a unique product that they would seek out.
+H1h1img1: img/portfolio2024/Spark/Circle.png
+H1h1img1text: Spireaux market analysis, levels of competition
+H1h1img2: img/portfolio2024/Spark/Spark Persona.png
+H1h1img2text: Persona of target audience
 
-H2: Heading 2
-H2h1: Sub heading 2.1
-H2h1text: Text 2.1
-H2h1img1: img/portfolio/cake.png
-H2h1img1text: img 2.11
-H2h1img2: img/portfolio/cake.png
-H2h1img2text: img 2.12
-H2h1img3: img/portfolio/cake.png
-H2h1img3text: img 2.13
-H2h1img4: img/portfolio/cake.png
-H2h1img4text: img 2.14
-H2h2: Sub heading 2.2
-H2h2text: Text 2.2
-H2h2img1: img/portfolio/cake.png
-H2h2img1text: img 2.21
-H2h2img2: img/portfolio/cake.png
-H2h2img2text: img 2.22
-H2h2img3: img/portfolio/cake.png
-H2h2img3text: img 2.23
-H2h2img4: img/portfolio/cake.png
-H2h2img4text: img 2.24
-H2h3: Sub heading 2.3
-H2h3text: Text 2.3
-H2h3img1: img/portfolio/cake.png
-H2h3img1text: img 2.31
-H2h3img2: img/portfolio/cake.png
-H2h3img2text: img 2.32
-H2h3img3: img/portfolio/cake.png
-H2h3img3text: img 2.33
-H2h3img4: img/portfolio/cake.png
-H2h3img4text: img 2.34
-H2h4: Sub heading 2.4
-H2h4text: Text 2.4
-H2h4img1: img/portfolio/cake.png
-H2h4img1text: img 2.41
-H2h4img2: img/portfolio/cake.png
-H2h4img2text: img 2.42
-H2h4img3: img/portfolio/cake.png
-H2h4img3text: img 2.43
-H2h4img4: img/portfolio/cake.png
-H2h4img4text: img 2.44
+H2: A Spark Among the Brands
+H2h1: Brand Strategy
+H2h1text: To differentiate Spireaux from its competitors, we strategically positioned the brand using a competition grid. This grid plotted two key axes: Refreshing (fulfillment after an activity) versus Perform (enhancing one’s capabilities), and Tasty (low barrier to entry) versus Effective (aligning with an ambitious mindset). The intersection of these qualities led to the creation of Spark, a brand designed for ambitious, self-improving casual athletes who lead hectic lives. The Spark brand is approachable, confident, and spirited, as reflected in its brand DNA and logo design.
+H2h1img1: img/portfolio2024/Spark/Grid.png
+H2h1img1text: Spark positioning axes
+H2h1img2: img/portfolio2024/Spark/Brand DNA.png
+H2h1img2text: Spark brand DNA
+H2h1img3: img/portfolio2024/Spark/Spark inspiration.png
+H2h1img3text: Inspiration mood board
+H2h1img4: img/portfolio2024/Spark/Artboard 1.png
+H2h1img4text: Spark logo design
 
-H3: Heading 3
-H3h1: Sub heading 3.1
-H3h1text: Text 3.1
-H3h1img1: img/portfolio/cake.png
-H3h1img1text: img 3.11
-H3h1img2: img/portfolio/cake.png
-H3h1img2text: img 3.12
-H3h1img3: img/portfolio/cake.png
-H3h1img3text: img 3.13
-H3h1img4: img/portfolio/cake.png
-H3h1img4text: img 3.14
-H3h2: Sub heading 3.2
-H3h2text: Text 3.2
-H3h2img1: img/portfolio/cake.png
-H3h2img1text: img 3.21
-H3h2img2: img/portfolio/cake.png
-H3h2img2text: img 3.22
-H3h2img3: img/portfolio/cake.png
-H3h2img3text: img 3.23
-H3h2img4: img/portfolio/cake.png
-H3h2img4text: img 3.24
-H3h3: Sub heading 3.3
-H3h3text: Text 3.3
-H3h3img1: img/portfolio/cake.png
-H3h3img1text: img 3.31
-H3h3img2: img/portfolio/cake.png
-H3h3img2text: img 3.32
-H3h3img3: img/portfolio/cake.png
-H3h3img3text: img 3.33
-H3h3img4: img/portfolio/cake.png
-H3h3img4text: img 3.34
-H3h4: Sub heading 3.4
-H3h4text: Text 3.4
-H3h4img1: img/portfolio/cake.png
-H3h4img1text: img 3.41
-H3h4img2: img/portfolio/cake.png
-H3h4img2text: img 3.42
-H3h4img3: img/portfolio/cake.png
-H3h4img3text: img 3.43
-H3h4img4: img/portfolio/cake.png
-H3h4img4text: img 3.44
-
-H4: Heading 4
-H4h1: Sub heading 4.1
-H4h1text: Text 4.1
-H4h1img1: img/portfolio/cake.png
-H4h1img1text: img 4.11
-H4h1img2: img/portfolio/cake.png
-H4h1img2text: img 4.12
-H4h1img3: img/portfolio/cake.png
-H4h1img3text: img 4.13
-H4h1img4: img/portfolio/cake.png
-H4h1img4text: img 4.14
-H4h2: Sub heading 4.2
-H4h2text: Text 4.2
-H4h2img1: img/portfolio/cake.png
-H4h2img1text: img 4.21
-H4h2img2: img/portfolio/cake.png
-H4h2img2text: img 4.22
-H4h2img3: img/portfolio/cake.png
-H4h2img3text: img 4.23
-H4h2img4: img/portfolio/cake.png
-H4h2img4text: img 4.24
-H4h3: Sub heading 4.3
-H4h3text: Text 4.3
-H4h3img1: img/portfolio/cake.png
-H4h3img1text: img 4.31
-H4h3img2: img/portfolio/cake.png
-H4h3img2text: img 4.32
-H4h3img3: img/portfolio/cake.png
-H4h3img3text: img 4.33
-H4h3img4: img/portfolio/cake.png
-H4h3img4text: img 4.34
-H4h4: Sub heading 4.4
-H4h4text: Text 4.4
-H4h4img1: img/portfolio/cake.png
-H4h4img1text: img 4.41
-H4h4img2: img/portfolio/cake.png
-H4h4img2text: img 4.42
-H4h4img3: img/portfolio/cake.png
-H4h4img3text: img 4.43
-H4h4img4: img/portfolio/cake.png
-H4h4img4text: img 4.44
+H3: Igniting the Brand
+H3h1: Launch Campaign
+H3h1text: With the brand design finalized, the next step was to introduce Spark to the market. We developed a launch campaign that included multiple touchpoints to effectively engage the target audience. The campaign’s core message, "Ignite Your Inner Spark to Reach for 100%", encapsulates the brand's essence and encourages consumers to unlock their full potential.
+H3h1img1: img/portfolio2024/Spark/Mindmap.png
+H3h1img1text: Key message of the campaign
+H3h1img2: img/portfolio2024/Spark/Roadmap.png
+H3h1img2text: Spark launch campaign
+H3h1img3: img/portfolio2024/Spark/Customer journey.png
+H3h1img3text: Customer journey
+H3h1img4: img/portfolio2024/Spark/Spark collage.jpg
+H3h1img4text: Various campaign touchpoints
+H3h2: Conclusion
+H3h2text: The project exemplifies the strategic and creative processes involved in bringing a new health-focused brand to life. Through thorough market analysis and targeted brand positioning, our team successfully developed Spark, a brand that resonates with ambitious, health-conscious consumers. The launch campaign, with its empowering message, is designed to effectively introduce Spark to the market, encouraging consumers to embrace their potential. This project highlights my ability to collaborate on complex branding initiatives, blending market insights with innovative design to create a compelling brand that stands out in the competitive health food industry.
 ---
