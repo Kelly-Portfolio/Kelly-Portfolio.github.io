@@ -1,6 +1,6 @@
 ---
 title: Additional Design Projects
-subtitle: Showcase of shorter design projects
+subtitle:  A showcase of shorter design projects
 layout: default
 
 modal-id: 7
