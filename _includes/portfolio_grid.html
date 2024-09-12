@@ -38,7 +38,7 @@
 </section>
 
 <style>
- /* Flexbox Portfolio Grid */
+/* Flexbox Portfolio Grid */
 .portfolio-flex-row {
   display: flex;
   flex-wrap: wrap;
@@ -47,39 +47,12 @@
 
 /* Initially hide the hidden items */
 .hidden-item {
-  visibility: hidden;
-  opacity: 0;
-  max-height: 0;
-  transition: all 0.5s ease;
-  flex: 0 0 0; /* Prevent hidden items from taking space */
-  margin: 0;
-  padding: 0;
+  display: none; /* Hide the item completely */
 }
 
-/* Reveal hidden items */
-.show .hidden-item {
-  visibility: visible;
-  opacity: 1;
-  max-height: 1000px; /* Adjust based on content height */
-  flex: 1 0 32%;
-  max-width: 32%; /* Same as for other items */
-  margin: 0 0 15px;
-  padding: 15px;
-}
-
-/* Ensure grid layout is consistent */
-@media (min-width: 640px) {
-  .portfolio-flex-item {
-    flex: 1 0 49%;
-    max-width: 49%;
-  }
-}
-
-@media (min-width: 960px) {
-  .portfolio-flex-item {
-    flex: 1 0 32%;
-    max-width: 32%;
-  }
+/* When the show class is added, the item will be displayed */
+.show-item {
+  display: block; /* Make the hidden item visible */
 }
   </style>
   
@@ -89,10 +62,18 @@
       var hiddenItems = document.querySelectorAll(".hidden-item");
       var btnText = this;
   
+      // Toggle the hidden items' visibility
       hiddenItems.forEach(function(item) {
-        item.classList.toggle("show");
+        if (item.classList.contains("show-item")) {
+          item.classList.remove("show-item");
+          item.style.display = "none";
+        } else {
+          item.classList.add("show-item");
+          item.style.display = "block";
+        }
       });
   
+      // Toggle the button text
       if (btnText.textContent === "See More") {
         btnText.textContent = "See Less";
       } else {
