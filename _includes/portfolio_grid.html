@@ -9,7 +9,9 @@
         <h2>Portfolio</h2>
       </div>
     </div>
+
     <div class="portfolio-flex-row">
+      <!-- First 6 visible items -->
       {% for post in site.posts limit: 6 %}
       <div class="portfolio-flex-item portfolio-item">
         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -18,12 +20,10 @@
         </a>
       </div>
       {% endfor %}
-    </div>
-    
-    <!-- Hidden row for the last 3 items -->
-    <div id="morePortfolio" class="portfolio-flex-row hidden-row">
+      
+      <!-- Hidden items, with 'hidden-item' class -->
       {% for post in site.posts offset: 6 %}
-      <div class="portfolio-flex-item portfolio-item">
+      <div class="portfolio-flex-item portfolio-item hidden-item">
         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
           <img src="{{ post.small-img }}" class="img-responsive portfolio-image" alt="{{ post.alt }}">
           <h3 class="portfolio-title">{{ post.title }}</h3>
@@ -38,7 +38,7 @@
 </section>
 
 <style>
- /* Flexbox Portfolio Grid CSS*/
+ /* Flexbox Portfolio Grid */
 .portfolio-flex-row {
   display: flex;
   flex-wrap: wrap;
@@ -51,16 +51,23 @@
   opacity: 0;
   max-height: 0;
   transition: all 0.5s ease;
+  flex: 0 0 0; /* Prevent hidden items from taking space */
+  margin: 0;
+  padding: 0;
 }
 
-/* Reveal hidden items on click */
+/* Reveal hidden items */
 .show .hidden-item {
   visibility: visible;
   opacity: 1;
-  max-height: 1000px; /* Adjust this based on content height */
+  max-height: 1000px; /* Adjust based on content height */
+  flex: 1 0 32%;
+  max-width: 32%; /* Same as for other items */
+  margin: 0 0 15px;
+  padding: 15px;
 }
 
-/* Ensure the grid layout is consistent */
+/* Ensure grid layout is consistent */
 @media (min-width: 640px) {
   .portfolio-flex-item {
     flex: 1 0 49%;
@@ -79,15 +86,17 @@
   <!-- See More button JS script -->
   <script>
     document.getElementById("seeMoreBtnPort").addEventListener("click", function() {
-      var portfolioGrid = document.querySelector(".portfolio-flex-row");
+      var hiddenItems = document.querySelectorAll(".hidden-item");
       var btnText = this;
   
-      if (portfolioGrid.classList.contains("show")) {
-        portfolioGrid.classList.remove("show");
-        btnText.textContent = "See More";
-      } else {
-        portfolioGrid.classList.add("show");
+      hiddenItems.forEach(function(item) {
+        item.classList.toggle("show");
+      });
+  
+      if (btnText.textContent === "See More") {
         btnText.textContent = "See Less";
+      } else {
+        btnText.textContent = "See More";
       }
     });
   </script>
