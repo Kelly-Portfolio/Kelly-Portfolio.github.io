@@ -7,11 +7,10 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2>Portfolio</h2>
-        <!-- <hr class="star-primary"> -->
       </div>
     </div>
     <div class="portfolio-flex-row">
-      {% for post in site.posts %}
+      {% for post in site.posts limit: 6 %}
       <div class="portfolio-flex-item portfolio-item">
         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
           <img src="{{ post.small-img }}" class="img-responsive portfolio-image" alt="{{ post.alt }}">
@@ -20,5 +19,50 @@
       </div>
       {% endfor %}
     </div>
+    
+    <!-- Hidden row for the last 3 items -->
+    <div id="moreText" class="portfolio-flex-row hidden-row">
+      {% for post in site.posts offset: 6 %}
+      <div class="portfolio-flex-item portfolio-item">
+        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+          <img src="{{ post.small-img }}" class="img-responsive portfolio-image" alt="{{ post.alt }}">
+          <h3 class="portfolio-title">{{ post.title }}</h3>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- See More button -->
+    <button id="seeMoreBtn" class="btn btn-success">See More</button>
   </div>
 </section>
+
+<style>
+  /* Initially, the hidden content has a max-height of 0 and is hidden */
+  #moreText {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+  }
+  
+  /* When the show class is added, the content expands */
+  #moreText.show {
+    max-height: 1000px; /* Adjust this based on content height */
+  }
+  </style>
+  
+  <!-- See More button JS script -->
+  <script>
+    document.getElementById("seeMoreBtn").addEventListener("click", function() {
+      var moreText = document.getElementById("moreText");
+      var btnText = this;
+  
+      if (moreText.classList.contains("show")) {
+        moreText.classList.remove("show");
+        btnText.textContent = "See More";
+      } else {
+        moreText.classList.add("show");
+        btnText.textContent = "See Less";
+      }
+    });
+  </script>
