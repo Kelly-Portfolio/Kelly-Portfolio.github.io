@@ -38,15 +38,36 @@
 </section>
 
 <style>
-  /* Initially, the hidden content has a max-height of 0 and is hidden */
-  #morePortfolio {
-  display: none; /* Hide initially */
-  transition: all 0.3s ease-in-out;
+ /* Flexbox Portfolio Grid CSS*/
+.portfolio-flex-row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
 }
 
-/* When the show class is added, the hidden-row is displayed */
+/* Initially hide the hidden-row */
+#morePortfolio {
+  display: none; /* Keep it hidden initially */
+}
+
+/* Show flex layout when the button is clicked */
 #morePortfolio.show {
-  display: flex; /* Show flex grid layout */
+  display: flex; /* Ensure it follows the flexbox grid layout */
+}
+
+/* Ensure the grid layout is the same for hidden items */
+@media (min-width: 640px) {
+  .portfolio-flex-item {
+    flex: 1 0 49%;
+    max-width: 49%;
+  }
+}
+
+@media (min-width: 960px) {
+  .portfolio-flex-item {
+    flex: 1 0 32%;
+    max-width: 32%;
+  }
 }
   </style>
   
