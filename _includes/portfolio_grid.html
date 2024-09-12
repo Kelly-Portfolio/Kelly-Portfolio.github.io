@@ -21,7 +21,7 @@
     </div>
     
     <!-- Hidden row for the last 3 items -->
-    <div id="moreText" class="portfolio-flex-row hidden-row">
+    <div id="morePortfolio" class="portfolio-flex-row hidden-row">
       {% for post in site.posts offset: 6 %}
       <div class="portfolio-flex-item portfolio-item">
         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -33,28 +33,28 @@
     </div>
 
     <!-- See More button -->
-    <button id="seeMoreBtn" class="btn btn-success">See More</button>
+    <button id="seeMoreBtnPort" class="btn btn-success">See More</button>
   </div>
 </section>
 
 <style>
   /* Initially, the hidden content has a max-height of 0 and is hidden */
-  #moreText {
+  #morePortfolio {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.5s ease-in-out;
   }
   
   /* When the show class is added, the content expands */
-  #moreText.show {
+  #morePortfolio.show {
     max-height: 1000px; /* Adjust this based on content height */
   }
   </style>
   
   <!-- See More button JS script -->
   <script>
-    document.getElementById("seeMoreBtn").addEventListener("click", function() {
-      var moreText = document.getElementById("moreText");
+    document.getElementById("seeMoreBtnPort").addEventListener("click", function() {
+      var moreText = document.getElementById("morePortfolio");
       var btnText = this;
   
       if (moreText.classList.contains("show")) {
