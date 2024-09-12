@@ -26,7 +26,7 @@ H1h1img2text: Persona of target audience
 
 H2: A Spark Among the Brands
 H2h1: Brand Strategy
-H2h1text: To differentiate Spireaux from its competitors, we strategically positioned the brand using a competition grid. This grid plotted two key axes: Refreshing (fulfillment after an activity) versus Perform (enhancing one’s capabilities), and Tasty (low barrier to entry) versus Effective (aligning with an ambitious mindset). The intersection of these qualities led to the creation of Spark, a brand designed for ambitious, self-improving casual athletes who lead hectic lives. The Spark brand is approachable, confident, and spirited, as reflected in its brand DNA and logo design.
+H2h1text: "To differentiate Spireaux from its competitors, we strategically positioned the brand using a competition grid. This grid plotted two key axes: Refreshing (fulfillment after an activity) versus Perform (enhancing one’s capabilities), and Tasty (low barrier to entry) versus Effective (aligning with an ambitious mindset). The intersection of these qualities led to the creation of Spark, a brand designed for ambitious, self-improving casual athletes who lead hectic lives. The Spark brand is approachable, confident, and spirited, as reflected in its brand DNA and logo design."
 H2h1img1: img/portfolio2024/Spark/Grid.png
 H2h1img1text: Spark positioning axes
 H2h1img2: img/portfolio2024/Spark/Brand DNA.png
