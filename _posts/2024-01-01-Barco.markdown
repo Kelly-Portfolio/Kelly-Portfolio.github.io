@@ -24,35 +24,18 @@ H1h1: The Challenge
 H1h1text: Rural citizens in China often distrust local doctors, preferring to travel long distances to cities for medical treatment, even at significant financial cost. Barco, with its expertise in medical devices, presented an opportunity to bridge this gap by making healthcare more accessible and equitable for rural populations.
 H1h2: Key Questions Addressed
 keqQuestAdress: Yes
-H1h2text: cake
-H1h2img1: img/portfolio/cake.png
-H1h2img1text: img 1.21
-H1h2img2: img/portfolio/cake.png
-H1h2img2text: img 1.22
-H1h2img3: img/portfolio/cake.png
-H1h2img3text: img 1.23
-H1h2img4: img/portfolio/cake.png
-H1h2img4text: img 1.24
-H1h3: Sub heading 1.3
-H1h3text: Text 1.3
-H1h3img1: img/portfolio/cake.png
-H1h3img1text: img 1.31
-H1h3img2: img/portfolio/cake.png
-H1h3img2text: img 1.32
-H1h3img3: img/portfolio/cake.png
-H1h3img3text: img 1.33
-H1h3img4: img/portfolio/cake.png
-H1h3img4text: img 1.34
-H1h4: Sub heading 1.4
-H1h4text: Text 1.4
-H1h4img1: img/portfolio/cake.png
-H1h4img1text: img 1.41
-H1h4img2: img/portfolio/cake.png
-H1h4img2text: img 1.42
-H1h4img3: img/portfolio/cake.png
-H1h4img3text: img 1.43
-H1h4img4: img/portfolio/cake.png
-H1h4img4text: img 1.44
+H1h3: Findings and Insights
+H1h3text: Our analysis revealed that Barco's presence in China had stagnated over the past five years, highlighting the need to rethink its market approach. Through extensive desk research and interviews, we identified a significant gap in medical infrastructure in rural China, providing a clear direction for our design process.
+H1h4: Vision
+H1h4text: Our vision was to empower rural doctors in China, enhancing their ability to diagnose and treat patients effectively. By doing so, these doctors could act as the first line of defense, reducing the need for costly and time-consuming trips to urban centers. The solution envisioned was a network of rural doctors equipped with advanced diagnostic tools provided by Barco, allowing them to collaborate remotely with city doctors. In the next figures, it is shown how Barco would intervene in the new situation.
+H1h4img1: img/portfolio2024/Barco/Echo call 2.jpeg
+H1h4img1text: Final concept Barco Echo, connecting rural doctors with city doctors
+H1h4img2: img/portfolio2024/Barco/Business Model with Insurance.jpeg
+H1h4img2text: Business model, if the patient has insurance
+H1h4img3: img/portfolio2024/Barco/Business Model without Insurance.jpeg
+H1h4img3text: Business model, if the patient has no insurance
+H1h4img4: img/portfolio2024/Barco/Doctor journey-03-03.png
+H1h4img4text: weekly user/customer journey of city, county and rural doctors with Barco intervention
 
 H2: Heading 2
 H2h1: Sub heading 2.1
