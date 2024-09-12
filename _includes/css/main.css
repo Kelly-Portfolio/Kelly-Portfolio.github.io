@@ -238,7 +238,7 @@ header {
   }
   
   .navbar-logo {
-    max-height: 10px; /* Adjust the size of your logo */
+    max-height: 20px; /* Adjust the size of your logo */
     margin-right: 10px; /* Add some space between the logo and the text */
     vertical-align: middle;
   }  
