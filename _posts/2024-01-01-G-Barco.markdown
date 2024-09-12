@@ -5,7 +5,6 @@ layout: default
 modal-id: 2
 date: 2024-01-01
 small-img: img/portfolio2024/Barco/Small-img-Barco.png
-img: img/portfolio2024/Barco/Echo call 2.jpeg
 alt: image-alt
 video: https://www.youtube.com/embed/SbjIRt28Ucs?si=Tmqot2xNz445nxEF
 

@@ -26,7 +26,9 @@
                   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                 </iframe>
               </div>
-              {% else %}
+            {% endif %}
+
+            {%if post.img%}
                 <img src="{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% endif %}
             <br>
@@ -71,6 +73,13 @@
 
             {% if post.H1 %}
               <h3>{{ post.H1}}</h3><br>
+            {% endif %}
+            {% if post.video1%}
+              <div class="video-container">
+                <iframe src="{{ post.video1 }}" 
+                  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                </iframe>
+              </div>
             {% endif %}
             {% if post.H1h1 %}
               <p style="text-align: left;margin-bottom: 0;"><b>{{ post.H1h1 }}</b></p>
@@ -231,6 +240,13 @@
             {% if post.H2 %}
               <h3>{{ post.H2}}</h3><br>
             {% endif %}
+            {% if post.video2%}
+              <div class="video-container">
+                <iframe src="{{ post.video2 }}" 
+                  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                </iframe>
+              </div>
+            {% endif %}
             {% if post.H2h1 %}
               <p style="text-align: left;margin-bottom: 0;"><b>{{ post.H2h1 }}</b></p>
             {% endif %}
@@ -377,6 +393,13 @@
             {% if post.H3 %}
               <h3>{{ post.H3}}</h3><br>
             {% endif %}
+            {% if post.video3%}
+              <div class="video-container">
+                <iframe src="{{ post.video3 }}" 
+                  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                </iframe>
+              </div>
+            {% endif %}
             {% if post.H3h1 %}
               <p style="text-align: left;margin-bottom: 0;"><b>{{ post.H3h1 }}</b></p>
             {% endif %}
@@ -522,6 +545,13 @@
 
             {% if post.H4 %}
               <h3>{{ post.H4}}</h3><br>
+            {% endif %}
+            {% if post.video4%}
+              <div class="video-container">
+                <iframe src="{{ post.video4 }}" 
+                  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                </iframe>
+              </div>
             {% endif %}
             {% if post.H4h1 %}
               <p style="text-align: left;margin-bottom: 0;"><b>{{ post.H4h1 }}</b></p>

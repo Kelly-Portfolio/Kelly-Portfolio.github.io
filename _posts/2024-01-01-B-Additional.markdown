@@ -6,8 +6,6 @@ layout: default
 modal-id: 7
 date: 2024-01-01
 small-img: img/portfolio2024/Additional/Small-img-Beyond.png
-img: img/portfolio2024/Additional/Space.jpg
-video: https://www.youtube.com/embed/dZxPwnhh4eg?si=Cwx0BciQ5pWAYNYf
 alt: image-alt
 
 ProjectOverview: In this section, I showcase three short projects completed during my studies. These projects reflect a diverse range of skills and approaches, from VR applications to speculative design concepts.
@@ -19,6 +17,7 @@ team: n students
 deliverables: A something, something
 
 H1: Heading 1
+video1: https://www.youtube.com/embed/dZxPwnhh4eg?si=Cwx0BciQ5pWAYNYf
 H1h1: Sub heading 1.1
 H1h1text: Text 1.1
 client1: Client
@@ -72,7 +71,7 @@ client2: Client
 course2: Course
 duration2: N weeks
 team2: n students
-deliverables: A something, something
+deliverables2: A something, something
 H2h1img1: img/portfolio/cake.png
 H2h1img1text: img 2.11
 H2h1img2: img/portfolio/cake.png
@@ -113,6 +112,7 @@ H2h4img4: img/portfolio/cake.png
 H2h4img4text: img 2.44
 
 H3: Heading 3
+video3: https://www.youtube.com/embed/dZxPwnhh4eg?si=Cwx0BciQ5pWAYNYf
 H3h1: Sub heading 3.1
 H3h1text: Text 3.1
 client3: Client
@@ -158,51 +158,4 @@ H3h4img3: img/portfolio/cake.png
 H3h4img3text: img 3.43
 H3h4img4: img/portfolio/cake.png
 H3h4img4text: img 3.44
-
-H4: Heading 4
-H4h1: Sub heading 4.1
-H4h1text: Text 4.1
-client4: Client
-course4: Course
-duration4: N weeks
-team4: n students
-deliverables: A something, something
-H4h1img1: img/portfolio/cake.png
-H4h1img1text: img 4.11
-H4h1img2: img/portfolio/cake.png
-H4h1img2text: img 4.12
-H4h1img3: img/portfolio/cake.png
-H4h1img3text: img 4.13
-H4h1img4: img/portfolio/cake.png
-H4h1img4text: img 4.14
-H4h2: Sub heading 4.2
-H4h2text: Text 4.2
-H4h2img1: img/portfolio/cake.png
-H4h2img1text: img 4.21
-H4h2img2: img/portfolio/cake.png
-H4h2img2text: img 4.22
-H4h2img3: img/portfolio/cake.png
-H4h2img3text: img 4.23
-H4h2img4: img/portfolio/cake.png
-H4h2img4text: img 4.24
-H4h3: Sub heading 4.3
-H4h3text: Text 4.3
-H4h3img1: img/portfolio/cake.png
-H4h3img1text: img 4.31
-H4h3img2: img/portfolio/cake.png
-H4h3img2text: img 4.32
-H4h3img3: img/portfolio/cake.png
-H4h3img3text: img 4.33
-H4h3img4: img/portfolio/cake.png
-H4h3img4text: img 4.34
-H4h4: Sub heading 4.4
-H4h4text: Text 4.4
-H4h4img1: img/portfolio/cake.png
-H4h4img1text: img 4.41
-H4h4img2: img/portfolio/cake.png
-H4h4img2text: img 4.42
-H4h4img3: img/portfolio/cake.png
-H4h4img3text: img 4.43
-H4h4img4: img/portfolio/cake.png
-H4h4img4text: img 4.44
 ---

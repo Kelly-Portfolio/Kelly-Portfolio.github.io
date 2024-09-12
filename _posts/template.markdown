@@ -20,6 +20,7 @@ team: n students
 deliverables: A something, something
 
 H1: Heading 1
+video1: https://www.youtube.com/embed/OucIFC-FWE0?si=DjVhZIUdDwQP1C1d
 H1h1: Sub heading 1.1
 H1h1text: Text 1.1
 client1: Client
@@ -67,13 +68,14 @@ H1h4img4: img/portfolio/cake.png
 H1h4img4text: img 1.44
 
 H2: Heading 2
+video2: https://www.youtube.com/embed/OucIFC-FWE0?si=DjVhZIUdDwQP1C1d
 H2h1: Sub heading 2.1
 H2h1text: Text 2.1
 client2: Client
 course2: Course
 duration2: N weeks
 team2: n students
-deliverables: A something, something
+deliverables2: A something, something
 H2h1img1: img/portfolio/cake.png
 H2h1img1text: img 2.11
 H2h1img2: img/portfolio/cake.png
@@ -114,6 +116,7 @@ H2h4img4: img/portfolio/cake.png
 H2h4img4text: img 2.44
 
 H3: Heading 3
+video3: https://www.youtube.com/embed/OucIFC-FWE0?si=DjVhZIUdDwQP1C1d
 H3h1: Sub heading 3.1
 H3h1text: Text 3.1
 client3: Client
@@ -161,13 +164,14 @@ H3h4img4: img/portfolio/cake.png
 H3h4img4text: img 3.44
 
 H4: Heading 4
+video4: https://www.youtube.com/embed/OucIFC-FWE0?si=DjVhZIUdDwQP1C1d
 H4h1: Sub heading 4.1
 H4h1text: Text 4.1
 client4: Client
 course4: Course
 duration4: N weeks
 team4: n students
-deliverables: A something, something
+deliverables4: A something, something
 H4h1img1: img/portfolio/cake.png
 H4h1img1text: img 4.11
 H4h1img2: img/portfolio/cake.png
