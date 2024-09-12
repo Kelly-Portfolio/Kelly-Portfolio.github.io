@@ -29,6 +29,11 @@
             {% endif %}
             <br>
 
+            {% if post.quoteChina %}
+              <p><em>"The villagers <strong>distrust</strong> us grassroots doctors, think that we can't cure their diseases, and often seek treatment from higher-level hospitals even just for a cough"</em></p>
+              <p><em><br /> "It is understandable, as the medical facilities at the rural hospital are <strong>inferior</strong>."</em></p>
+            {% endif %}
+
             {% if post.ProjectOverview %}
               <p style="text-align: left;">{{ post.ProjectOverview }}</p>
             {% endif %}

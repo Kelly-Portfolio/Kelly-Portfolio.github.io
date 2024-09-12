@@ -1,14 +1,17 @@
 ---
-title: Title
-subtitle: Subtitle
+title: Barco Echo
+subtitle: A product service system designed tohelp Barco successfully enter the Chinese market.
 layout: default
 modal-id: 2
 date: 2024-01-01
-small-img: img/portfolio/cake.png
-img: img/portfolio/cake.png
+small-img: img/portfolio2024/Barco/Small-img-Barco.png
+img: img/portfolio2024/Barco/Echo call 2.jpeg
 alt: image-alt
+video: https://www.youtube.com/embed/SbjIRt28Ucs?si=Tmqot2xNz445nxEF
 
-ProjectOverview: introduction text
+quoteChina: Yes
+
+ProjectOverview: This project was part of the Design Strategy Project course during my master's program, aimed at designing a new product/service for Barco, a leader in medical imaging technology. The objective was to explore and develop a strategy to improve healthcare in rural China by leveraging Barco's existing strengths.
 
 client: Client
 course: Course
