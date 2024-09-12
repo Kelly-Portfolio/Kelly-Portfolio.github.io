@@ -9,6 +9,7 @@ img: img/portfolio/cake.png
 video: https://www.youtube.com/embed/OucIFC-FWE0?si=DjVhZIUdDwQP1C1d
 alt: image-alt
 
+quote: quotes
 ProjectOverview: introduction text
 
 client: Client

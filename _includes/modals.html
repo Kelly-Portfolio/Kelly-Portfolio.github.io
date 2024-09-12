@@ -29,15 +29,16 @@
             {% endif %}
             <br>
 
+            {% if post.quote%}
+              <p><em>{{ post.quote }}</em></p>
+            {% endif %}
+
             {% if post.quoteChina %}
               <p><em>"The villagers <strong>distrust</strong> us grassroots doctors, think that we can't cure their diseases, and often seek treatment from higher-level hospitals even just for a cough"</em></p>
               <p><em><br /> "It is understandable, as the medical facilities at the rural hospital are <strong>inferior</strong>."</em></p>
             {% endif %}
 
-            {% if post.quote%}
-              <p><em>{{ post.quote }}</em></p>
-            {% endif %}
-
+            
             {% if post.ProjectOverview %}
               <p style="text-align: left;">{{ post.ProjectOverview }}</p>
             {% endif %}
@@ -101,6 +102,13 @@
             {% endif %}
             {% if post.H1h2 %}
               <p style="text-align: left;margin-bottom: 0;"><b>{{ post.H1h2 }}</b></p>
+            {% endif %}
+            {% if post.keqQuestAdress %}
+            <ul>
+              <li><strong>Company and Competitor Analysis:</strong> What are the strengths and weaknesses of Barco and its competitors?</li>
+              <li><strong>Market Context:</strong> How is the current market context, particularly in China, and how might it evolve?</li>
+              <li><strong>Customer Insights:</strong> Who are the potential customers, and what are their healthcare experiences and needs?</li>
+              </ul>
             {% endif %}
             {% if post.H1h2text %}
               <p style="text-align: left;margin-top: 0;">{{ post.H1h2text}}</p>

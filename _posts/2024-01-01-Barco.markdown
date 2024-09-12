@@ -10,7 +10,6 @@ alt: image-alt
 video: https://www.youtube.com/embed/SbjIRt28Ucs?si=Tmqot2xNz445nxEF
 
 quoteChina: Yes
-quote: The villagers **distrust** us grassroots doctors, think that we can't cure their diseases, and often seek treatment from higher-level hospitals even just for a cough
 
 ProjectOverview: This project was part of the Design Strategy Project course during my master's program, aimed at designing a new product/service for Barco, a leader in medical imaging technology. The objective was to explore and develop a strategy to improve healthcare in rural China by leveraging Barco's existing strengths.
 
@@ -24,7 +23,8 @@ H1: Finding a New Opportunity in China
 H1h1: The Challenge
 H1h1text: Rural citizens in China often distrust local doctors, preferring to travel long distances to cities for medical treatment, even at significant financial cost. Barco, with its expertise in medical devices, presented an opportunity to bridge this gap by making healthcare more accessible and equitable for rural populations.
 H1h2: Key Questions Addressed
-H1h2text: Text 1.2
+keqQuestAdress: Yes
+H1h2text: cake
 H1h2img1: img/portfolio/cake.png
 H1h2img1text: img 1.21
 H1h2img2: img/portfolio/cake.png
