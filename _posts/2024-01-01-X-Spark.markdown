@@ -1,6 +1,6 @@
 ---
 title: Spark
-subtitle: The creation of a brand identity for a healthy drink.
+subtitle: The creation of a brand identity for a healthy drink
 layout: default
 modal-id: 3
 date: 2024-01-01
