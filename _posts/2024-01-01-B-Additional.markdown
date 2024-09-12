@@ -5,13 +5,12 @@ layout: default
 
 modal-id: 7
 date: 2024-01-01
-small-img: img/portfolio/cake.png
-img: img/portfolio/cake.png
+small-img: img/portfolio2024/Additional/Small-img-Beyond.png
+img: img/portfolio2024/Additional/Space.jpg
 video: https://www.youtube.com/embed/dZxPwnhh4eg?si=Cwx0BciQ5pWAYNYf
 alt: image-alt
 
-quote: quotes
-ProjectOverview: introduction text
+ProjectOverview: In this section, I showcase three short projects completed during my studies. These projects reflect a diverse range of skills and approaches, from VR applications to speculative design concepts.
 
 client: Client
 course: Course
@@ -22,6 +21,11 @@ deliverables: A something, something
 H1: Heading 1
 H1h1: Sub heading 1.1
 H1h1text: Text 1.1
+client1: Client
+course1: Course
+duration1: N weeks
+team1: n students
+deliverables1: A something, something
 H1h1img1: img/portfolio/cake.png
 H1h1img1text: img 1.11
 H1h1img2: img/portfolio/cake.png
@@ -64,6 +68,11 @@ H1h4img4text: img 1.44
 H2: Heading 2
 H2h1: Sub heading 2.1
 H2h1text: Text 2.1
+client2: Client
+course2: Course
+duration2: N weeks
+team2: n students
+deliverables: A something, something
 H2h1img1: img/portfolio/cake.png
 H2h1img1text: img 2.11
 H2h1img2: img/portfolio/cake.png
@@ -106,6 +115,11 @@ H2h4img4text: img 2.44
 H3: Heading 3
 H3h1: Sub heading 3.1
 H3h1text: Text 3.1
+client3: Client
+course3: Course
+duration3: N weeks
+team3: n students
+deliverables3: A something, something
 H3h1img1: img/portfolio/cake.png
 H3h1img1text: img 3.11
 H3h1img2: img/portfolio/cake.png
@@ -148,6 +162,11 @@ H3h4img4text: img 3.44
 H4: Heading 4
 H4h1: Sub heading 4.1
 H4h1text: Text 4.1
+client4: Client
+course4: Course
+duration4: N weeks
+team4: n students
+deliverables: A something, something
 H4h1img1: img/portfolio/cake.png
 H4h1img1text: img 4.11
 H4h1img2: img/portfolio/cake.png
