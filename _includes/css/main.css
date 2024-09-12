@@ -199,12 +199,20 @@ header {
         transition: all .3s;
     }
 
+    .navbar-fixed-top .navbar-logo {
+        max-height: 30px; /* Initial logo size */
+        transition: max-height 0.3s ease;
+    }
+
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+    }
+    .navbar-fixed-top.navbar-shrink .navbar-logo {
+        max-height: 20px; /* Shrinked logo size */
     }
 }
 
