@@ -47,6 +47,20 @@
               <p style="text-align: left;">{{ post.ProjectOverview }}</p>
             {% endif %}
 
+            {% if post.AdditionalList%}
+              <ul>
+                <li>
+                  <p style="text-align: left;"><strong>Company and Competitor Analysis:</strong> What are the strengths and weaknesses of the company and its competitors?</p>
+                </li>
+                <li style="text-align: left;">
+                  <p><strong>Market Context:</strong> How is the current market context and how might it evolve?</p>
+                </li>
+                <li>
+                  <p style="text-align: left;"><strong>Customer Insights:</strong> Who are the potential customers, and what are their experiences and needs?</p>
+                </li>
+              </ul>
+            {% endif %}
+
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client

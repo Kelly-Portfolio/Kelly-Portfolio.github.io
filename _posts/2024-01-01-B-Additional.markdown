@@ -10,152 +10,53 @@ alt: image-alt
 
 ProjectOverview: In this section, I showcase three short projects completed during my studies. These projects reflect a diverse range of skills and approaches, from VR applications to speculative design concepts.
 
-client: Client
-course: Course
-duration: N weeks
-team: n students
-deliverables: A something, something
+AdditionalList: yes
 
-H1: Heading 1
+H1: EarthScope
 video1: https://www.youtube.com/embed/dZxPwnhh4eg?si=Cwx0BciQ5pWAYNYf
-H1h1: Sub heading 1.1
-H1h1text: Text 1.1
-client1: Client
-course1: Course
-duration1: N weeks
-team1: n students
-deliverables1: A something, something
-H1h1img1: img/portfolio/cake.png
-H1h1img1text: img 1.11
-H1h1img2: img/portfolio/cake.png
-H1h1img2text: img 1.12
-H1h1img3: img/portfolio/cake.png
-H1h1img3text: img 1.13
-H1h1img4: img/portfolio/cake.png
-H1h1img4text: img 1.14
-H1h2: Sub heading 1.2
-H1h2text: Text 1.2
-H1h2img1: img/portfolio/cake.png
-H1h2img1text: img 1.21
-H1h2img2: img/portfolio/cake.png
-H1h2img2text: img 1.22
-H1h2img3: img/portfolio/cake.png
-H1h2img3text: img 1.23
-H1h2img4: img/portfolio/cake.png
-H1h2img4text: img 1.24
-H1h3: Sub heading 1.3
-H1h3text: Text 1.3
-H1h3img1: img/portfolio/cake.png
-H1h3img1text: img 1.31
-H1h3img2: img/portfolio/cake.png
-H1h3img2text: img 1.32
-H1h3img3: img/portfolio/cake.png
-H1h3img3text: img 1.33
-H1h3img4: img/portfolio/cake.png
-H1h3img4text: img 1.34
-H1h4: Sub heading 1.4
-H1h4text: Text 1.4
-H1h4img1: img/portfolio/cake.png
-H1h4img1text: img 1.41
-H1h4img2: img/portfolio/cake.png
-H1h4img2text: img 1.42
-H1h4img3: img/portfolio/cake.png
-H1h4img3text: img 1.43
-H1h4img4: img/portfolio/cake.png
-H1h4img4text: img 1.44
+H1h1text: Observing Earth from space offers a unique perspective that can foster a deep sense of environmental responsibility—an experience known as the overview effect. Traditionally, only astronauts and space scientists have access to this awe-inspiring view, but Virtual Reality (VR) can bring this experience to everyone, encouraging a broader understanding of the planet’s fragility and the urgency of environmental protection.
+client1: Blekinge Institute of Technology
+course1: Virtual and Physical Prototyping
+duration1: 10 weeks
+team1: 4 students
+deliverables1: VR application prototype, video showcase, a report, and a presentation
+H1h2: The Challenge
+H1h2text: In this course, provided by Politecnico di Milano, the challenge was to design a VR application that inspires sustainability through the overview effect. Our project, EarthScope, aimed to create a platform where users could virtually explore Earth from space, gaining insights into environmental issues like deforestation and resource depletion. By allowing users to see the planet from this vantage point, EarthScope promotes a consciousness of the need to protect our environment in everyday life.
+H1h3: Outcomes
+H1h3text: The final prototype effectively conveyed the overview effect, making users more aware of environmental issues. 
+H1h3img1: img/portfolio2024/Additional/Tutorial.jpg
+H1h3img1text: Tutorial section of the VR experience
+H1h3img2: img/portfolio2024/Additional/Space.jpg
+H1h3img2text: The space VR experience with overview effect
 
-H2: Heading 2
-H2h1: Sub heading 2.1
-H2h1text: Text 2.1
-client2: Client
-course2: Course
-duration2: N weeks
-team2: n students
-deliverables2: A something, something
-H2h1img1: img/portfolio/cake.png
-H2h1img1text: img 2.11
-H2h1img2: img/portfolio/cake.png
-H2h1img2text: img 2.12
-H2h1img3: img/portfolio/cake.png
-H2h1img3text: img 2.13
-H2h1img4: img/portfolio/cake.png
-H2h1img4text: img 2.14
-H2h2: Sub heading 2.2
-H2h2text: Text 2.2
-H2h2img1: img/portfolio/cake.png
-H2h2img1text: img 2.21
-H2h2img2: img/portfolio/cake.png
-H2h2img2text: img 2.22
-H2h2img3: img/portfolio/cake.png
-H2h2img3text: img 2.23
-H2h2img4: img/portfolio/cake.png
-H2h2img4text: img 2.24
-H2h3: Sub heading 2.3
-H2h3text: Text 2.3
-H2h3img1: img/portfolio/cake.png
-H2h3img1text: img 2.31
-H2h3img2: img/portfolio/cake.png
-H2h3img2text: img 2.32
-H2h3img3: img/portfolio/cake.png
-H2h3img3text: img 2.33
-H2h3img4: img/portfolio/cake.png
-H2h3img4text: img 2.34
-H2h4: Sub heading 2.4
-H2h4text: Text 2.4
-H2h4img1: img/portfolio/cake.png
-H2h4img1text: img 2.41
-H2h4img2: img/portfolio/cake.png
-H2h4img2text: img 2.42
-H2h4img3: img/portfolio/cake.png
-H2h4img3text: img 2.43
-H2h4img4: img/portfolio/cake.png
-H2h4img4text: img 2.44
+H2: Olvarit App
+H2h1text: Balancing convenience and control is a major challenge for parents when it comes to their baby’s diet. While commercial baby food offers convenience, many parents are concerned about the lack of control over its contents. On the other hand, preparing homemade baby food can be stressful and time-consuming, especially when parents are unsure if they’re providing the right nutrients.
+course2: Food and Eating Design
+duration2: 2 weeks
+team2: Individual
+deliverables2: Poster
+H2h2: The Challenge
+H2h2text: I challenged myself to reimagine how Olvarit baby food could be experienced by parents, addressing the dilemma between convenience and control. The solution needed to provide parents with confidence in their child’s nutrition while reducing the stress associated with meal preparation.
+H2h3: Outcomes
+H2h3text: I designed a service that allows parents to plan their child’s meals using Olvarit’s expertise. The app provides customized meal plans and delivers a package with the required produce and preparation instructions. This service empowers parents to make informed decisions about their child’s diet, reducing uncertainty and stress.
+H2h3img1: img/portfolio2024/Additional/Olvarit Poster.png
+H2h3img1text: Convenience and control with Olvarit
 
-H3: Heading 3
-video3: https://www.youtube.com/embed/dZxPwnhh4eg?si=Cwx0BciQ5pWAYNYf
-H3h1: Sub heading 3.1
-H3h1text: Text 3.1
-client3: Client
-course3: Course
-duration3: N weeks
-team3: n students
-deliverables3: A something, something
-H3h1img1: img/portfolio/cake.png
-H3h1img1text: img 3.11
-H3h1img2: img/portfolio/cake.png
-H3h1img2text: img 3.12
-H3h1img3: img/portfolio/cake.png
-H3h1img3text: img 3.13
-H3h1img4: img/portfolio/cake.png
-H3h1img4text: img 3.14
-H3h2: Sub heading 3.2
-H3h2text: Text 3.2
-H3h2img1: img/portfolio/cake.png
-H3h2img1text: img 3.21
-H3h2img2: img/portfolio/cake.png
-H3h2img2text: img 3.22
-H3h2img3: img/portfolio/cake.png
-H3h2img3text: img 3.23
-H3h2img4: img/portfolio/cake.png
-H3h2img4text: img 3.24
-H3h3: Sub heading 3.3
-H3h3text: Text 3.3
-H3h3img1: img/portfolio/cake.png
-H3h3img1text: img 3.31
-H3h3img2: img/portfolio/cake.png
-H3h3img2text: img 3.32
-H3h3img3: img/portfolio/cake.png
-H3h3img3text: img 3.33
-H3h3img4: img/portfolio/cake.png
-H3h3img4text: img 3.34
-H3h4: Sub heading 3.4
-H3h4text: Text 3.4
-H3h4img1: img/portfolio/cake.png
-H3h4img1text: img 3.41
-H3h4img2: img/portfolio/cake.png
-H3h4img2text: img 3.42
-H3h4img3: img/portfolio/cake.png
-H3h4img3text: img 3.43
-H3h4img4: img/portfolio/cake.png
-H3h4img4text: img 3.44
+H3: PREG-POD
+video3: https://www.youtube.com/embed/tjaEUHReD0o?si=1-xLeUri0xcO5pgM
+H3h1text: Speculative design allows us to explore and reflect on possible futures by creating artifacts that challenge our current perceptions and values. In this project, we were tasked with envisioning a future scenario based on trend research and developing an artifact that prompts people to reconsider the implications of emerging technologies.
+course3: Design Futures
+duration3: 4 weeks
+team3: 7 students
+deliverables3: concept catalogue, video showcase, and public presentation
+H3h2: The Future
+H3h2text: The PREG-POD concept explores a future where most pregnancies occur in laboratories due to medical risks and career demands. Despite this shift, the desire for intimacy and traditional family structures persists. PREG-POD enables shared pregnancy experiences among multiple co-parents, where each parent contributes genetically to the embryo, which grows within the PREG-POD.
+H3h3: The Artifact
+H3h3text: PREG-POD reimagines family dynamics by allowing multiple parents to bond with the baby during the pregnancy, regardless of gender. It includes features like nutritional fluid, a digital interface for monitoring, and modes for stimulation and sleep. The concept video showcasing the possibilities of future family models, along with the public's opinions, is shown above. 
+H3h3img1: img/portfolio2024/Additional/P10compressed.jpg
+H3h3img1text: A male carrying the PREG-POD
+H3h3img2: img/portfolio2024/Additional/P9compressed.jpg
+H3h3img2text: A couple sharing the PREG-POD
+H3h3img3: img/portfolio2024/Additional/P8compressed.jpg
+H3h3img3text: PREG-POD carried by multiple parents
 ---
