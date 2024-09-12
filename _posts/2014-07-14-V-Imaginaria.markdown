@@ -1,189 +1,39 @@
 ---
 title: Imaginaria
-subtitle: Subtitle
+subtitle: Creating a toy that incorporates upcoming AI technology
 layout: default
 
 modal-id: 5
 date: 2024-01-01
-small-img: img/portfolio/cake.png
-img: img/portfolio/cake.png
-video: https://www.youtube.com/embed/OucIFC-FWE0?si=DjVhZIUdDwQP1C1d
+small-img: img/portfolio2024/Imaginaria/Small-img-Imagineria.png
+img: img/portfolio2024/Imaginaria/Imaginaria.png
 alt: image-alt
 
-quote: quotes
-ProjectOverview: introduction text
+ProjectOverview: As artificial intelligence becomes increasingly integral to our lives, its influence is expected to extend to the way our children play and learn. Parents are eager to introduce their children to AI early on, ensuring they grow up familiar with this powerful technology. However, this introduction must be safe, playful, and engaging. In the "Design for Children’s Play" course, we were tasked with creating a toy that incorporates AI technology in a way that encourages creativity and storytelling for children aged 8 and above.
 
-client: Client
-course: Course
-duration: N weeks
-team: n students
-deliverables: A something, something
+course: Design for Children’s Play
+duration: 10 weeks
+team: 3 students
+deliverables: Final report and user testing
 
-H1: Heading 1
-H1h1: Sub heading 1.1
-H1h1text: Text 1.1
-H1h1img1: img/portfolio/cake.png
-H1h1img1text: img 1.11
-H1h1img2: img/portfolio/cake.png
-H1h1img2text: img 1.12
-H1h1img3: img/portfolio/cake.png
-H1h1img3text: img 1.13
-H1h1img4: img/portfolio/cake.png
-H1h1img4text: img 1.14
-H1h2: Sub heading 1.2
-H1h2text: Text 1.2
-H1h2img1: img/portfolio/cake.png
-H1h2img1text: img 1.21
-H1h2img2: img/portfolio/cake.png
-H1h2img2text: img 1.22
-H1h2img3: img/portfolio/cake.png
-H1h2img3text: img 1.23
-H1h2img4: img/portfolio/cake.png
-H1h2img4text: img 1.24
-H1h3: Sub heading 1.3
-H1h3text: Text 1.3
-H1h3img1: img/portfolio/cake.png
-H1h3img1text: img 1.31
-H1h3img2: img/portfolio/cake.png
-H1h3img2text: img 1.32
-H1h3img3: img/portfolio/cake.png
-H1h3img3text: img 1.33
-H1h3img4: img/portfolio/cake.png
-H1h3img4text: img 1.34
-H1h4: Sub heading 1.4
-H1h4text: Text 1.4
-H1h4img1: img/portfolio/cake.png
-H1h4img1text: img 1.41
-H1h4img2: img/portfolio/cake.png
-H1h4img2text: img 1.42
-H1h4img3: img/portfolio/cake.png
-H1h4img3text: img 1.43
-H1h4img4: img/portfolio/cake.png
-H1h4img4text: img 1.44
+H1: From AI to Toy
+H1h1: The Challenge
+H1h1text: Our goal was to design a toy or play experience that allows children to create or act out stories with a tangible embodiment they can touch and feel. The challenge was to seamlessly integrate AI technology into a toy that is not only educational but also captivating and fun for children.
+H1h2: Ideation and Concept Development
+H1h2text: Our ideation phase included word clouds, brainstorming, defining problem statements, developing extreme characters, and exploring various concepts. Through this creative process, we developed Imaginaria—a playmat that uses Augmented Reality (AR) and AI image generation technology to bring children's imaginative worlds to life. With Imaginaria, children can introduce objects into their stories, which the playmat then transforms into interactive, animated elements.
+H1h2img1: img/portfolio2024/Imaginaria/Imaginaria collage.png
+H1h2img1text: Ideation phases
 
-H2: Heading 2
-H2h1: Sub heading 2.1
-H2h1text: Text 2.1
-H2h1img1: img/portfolio/cake.png
-H2h1img1text: img 2.11
-H2h1img2: img/portfolio/cake.png
-H2h1img2text: img 2.12
-H2h1img3: img/portfolio/cake.png
-H2h1img3text: img 2.13
-H2h1img4: img/portfolio/cake.png
-H2h1img4text: img 2.14
-H2h2: Sub heading 2.2
-H2h2text: Text 2.2
-H2h2img1: img/portfolio/cake.png
-H2h2img1text: img 2.21
-H2h2img2: img/portfolio/cake.png
-H2h2img2text: img 2.22
-H2h2img3: img/portfolio/cake.png
-H2h2img3text: img 2.23
-H2h2img4: img/portfolio/cake.png
-H2h2img4text: img 2.24
-H2h3: Sub heading 2.3
-H2h3text: Text 2.3
-H2h3img1: img/portfolio/cake.png
-H2h3img1text: img 2.31
-H2h3img2: img/portfolio/cake.png
-H2h3img2text: img 2.32
-H2h3img3: img/portfolio/cake.png
-H2h3img3text: img 2.33
-H2h3img4: img/portfolio/cake.png
-H2h3img4text: img 2.34
-H2h4: Sub heading 2.4
-H2h4text: Text 2.4
-H2h4img1: img/portfolio/cake.png
-H2h4img1text: img 2.41
-H2h4img2: img/portfolio/cake.png
-H2h4img2text: img 2.42
-H2h4img3: img/portfolio/cake.png
-H2h4img3text: img 2.43
-H2h4img4: img/portfolio/cake.png
-H2h4img4text: img 2.44
-
-H3: Heading 3
-H3h1: Sub heading 3.1
-H3h1text: Text 3.1
-H3h1img1: img/portfolio/cake.png
-H3h1img1text: img 3.11
-H3h1img2: img/portfolio/cake.png
-H3h1img2text: img 3.12
-H3h1img3: img/portfolio/cake.png
-H3h1img3text: img 3.13
-H3h1img4: img/portfolio/cake.png
-H3h1img4text: img 3.14
-H3h2: Sub heading 3.2
-H3h2text: Text 3.2
-H3h2img1: img/portfolio/cake.png
-H3h2img1text: img 3.21
-H3h2img2: img/portfolio/cake.png
-H3h2img2text: img 3.22
-H3h2img3: img/portfolio/cake.png
-H3h2img3text: img 3.23
-H3h2img4: img/portfolio/cake.png
-H3h2img4text: img 3.24
-H3h3: Sub heading 3.3
-H3h3text: Text 3.3
-H3h3img1: img/portfolio/cake.png
-H3h3img1text: img 3.31
-H3h3img2: img/portfolio/cake.png
-H3h3img2text: img 3.32
-H3h3img3: img/portfolio/cake.png
-H3h3img3text: img 3.33
-H3h3img4: img/portfolio/cake.png
-H3h3img4text: img 3.34
-H3h4: Sub heading 3.4
-H3h4text: Text 3.4
-H3h4img1: img/portfolio/cake.png
-H3h4img1text: img 3.41
-H3h4img2: img/portfolio/cake.png
-H3h4img2text: img 3.42
-H3h4img3: img/portfolio/cake.png
-H3h4img3text: img 3.43
-H3h4img4: img/portfolio/cake.png
-H3h4img4text: img 3.44
-
-H4: Heading 4
-H4h1: Sub heading 4.1
-H4h1text: Text 4.1
-H4h1img1: img/portfolio/cake.png
-H4h1img1text: img 4.11
-H4h1img2: img/portfolio/cake.png
-H4h1img2text: img 4.12
-H4h1img3: img/portfolio/cake.png
-H4h1img3text: img 4.13
-H4h1img4: img/portfolio/cake.png
-H4h1img4text: img 4.14
-H4h2: Sub heading 4.2
-H4h2text: Text 4.2
-H4h2img1: img/portfolio/cake.png
-H4h2img1text: img 4.21
-H4h2img2: img/portfolio/cake.png
-H4h2img2text: img 4.22
-H4h2img3: img/portfolio/cake.png
-H4h2img3text: img 4.23
-H4h2img4: img/portfolio/cake.png
-H4h2img4text: img 4.24
-H4h3: Sub heading 4.3
-H4h3text: Text 4.3
-H4h3img1: img/portfolio/cake.png
-H4h3img1text: img 4.31
-H4h3img2: img/portfolio/cake.png
-H4h3img2text: img 4.32
-H4h3img3: img/portfolio/cake.png
-H4h3img3text: img 4.33
-H4h3img4: img/portfolio/cake.png
-H4h3img4text: img 4.34
-H4h4: Sub heading 4.4
-H4h4text: Text 4.4
-H4h4img1: img/portfolio/cake.png
-H4h4img1text: img 4.41
-H4h4img2: img/portfolio/cake.png
-H4h4img2text: img 4.42
-H4h4img3: img/portfolio/cake.png
-H4h4img3text: img 4.43
-H4h4img4: img/portfolio/cake.png
-H4h4img4text: img 4.44
+H2: A Children’s World
+H2h1: Prototyping and Testing
+H2h1text: To evaluate the effectiveness of Imaginaria, we developed a paper prototype that simulated how the AI would generate and transform objects. This allowed us to test how well children could engage with the concept and form stories using a random assortment of objects.
+H2h2text: On testing day, we invited groups of children aged 9-11 years old to interact with the prototype. To ensure smooth and accurate testing, our team members rotated roles between presenter, assistant, and documenter for each round of testing. This approach allowed us to observe how children responded to the concept and gathered valuable insights for refining Imaginaria for future iterations and risk assessment.
+H2h2img1: img/portfolio2024/Imaginaria/Evaluation white.png
+H2h2img1text: Moderating an evaluation session
+H2h2img2: img/portfolio2024/Imaginaria/IMG_20230126_101444.jpg
+H2h2img2text: The paper prototype
+H2h2img3: img/portfolio2024/Imaginaria/Children playing.jpg
+H2h2img3text: Children playing with the prototype
+H2h3: Conclusion
+H2h3text: The project showcases the potential of integrating advanced technologies like AI and Augmented Reality into children's play experiences. By creating a toy that encourages creativity and storytelling, we successfully bridged the gap between technology and imaginative play. The positive feedback from user testing highlighted the effectiveness of Imaginaria in engaging children and sparking their creativity. This project underscores my ability to design innovative, child-centered products that are not only educational but also enjoyable. It showcases my paper prototyping ability and user testing skills. 
 ---
