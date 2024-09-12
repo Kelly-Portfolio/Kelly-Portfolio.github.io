@@ -10,7 +10,7 @@ alt: image-alt
 video: https://www.youtube.com/embed/SbjIRt28Ucs?si=Tmqot2xNz445nxEF
 
 quoteChina: Yes
-quote: "The villagers **distrust** us grassroots doctors, think that we can't cure their diseases, and often seek treatment from higher-level hospitals even just for a cough"
+quote: The villagers **distrust** us grassroots doctors, think that we can't cure their diseases, and often seek treatment from higher-level hospitals even just for a cough
 
 ProjectOverview: This project was part of the Design Strategy Project course during my master's program, aimed at designing a new product/service for Barco, a leader in medical imaging technology. The objective was to explore and develop a strategy to improve healthcare in rural China by leveraging Barco's existing strengths.
 
