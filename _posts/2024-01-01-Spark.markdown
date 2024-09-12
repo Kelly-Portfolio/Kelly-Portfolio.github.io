@@ -1,23 +1,20 @@
 ---
-title: Template
-subtitle: Subtitle
+title: Spark
+subtitle: The creation of a brand identity for a healthy drink.
 layout: default
-
-modal-id: 0
+modal-id: 3
 date: 2024-01-01
-small-img: img/portfolio/cake.png
-img: img/portfolio/cake.png
-video: https://www.youtube.com/embed/OucIFC-FWE0?si=DjVhZIUdDwQP1C1d
+small-img: img/portfolio2024/Spark/Small-img-Spark.png
+img: img/portfolio2024/Spark/Spark.jpg
 alt: image-alt
 
-quote: quotes
-ProjectOverview: introduction text
+ProjectOverview: Spirulina, a nutrient-rich algae that can be easily added to food without compromising taste, is poised to become the next big trend in the health food industry. Spireaux, a young startup, aims to capitalize on this trend by introducing a new spirulina-based drink that showcases the potential of this superfood. Our brief was to design a new brand and product to help Spireaux realize its vision. This project was completed as part of the Brand and Product Commercialization course during my Master's program. The team, consisting of four students, worked over 10 weeks to deliver a comprehensive presentation and final report, which included brand positioning and a launch campaign. Our brief was to design a new brand and product for this company to realize its dream. 
 
-client: Client
-course: Course
-duration: N weeks
-team: n students
-deliverables: A something, something
+client: Spireaux
+course: Spireaux
+duration: 10 weeks
+team: 4 students
+deliverables: a presentation and a final report, which included brand positioning, and a launch campaign
 
 H1: Heading 1
 H1h1: Sub heading 1.1
