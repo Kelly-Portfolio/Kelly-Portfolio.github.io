@@ -40,15 +40,14 @@
 <style>
   /* Initially, the hidden content has a max-height of 0 and is hidden */
   #morePortfolio {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.5s ease-in-out;
-  }
-  
-  /* When the show class is added, the content expands */
-  #morePortfolio.show {
-    max-height: 500px; /* Adjust this based on content height */
-  }
+  display: none; /* Hide initially */
+  transition: all 0.3s ease-in-out;
+}
+
+/* When the show class is added, the hidden-row is displayed */
+#morePortfolio.show {
+  display: flex; /* Show flex grid layout */
+}
   </style>
   
   <!-- See More button JS script -->
