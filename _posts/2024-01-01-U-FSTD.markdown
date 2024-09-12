@@ -1,0 +1,49 @@
+---
+title: Formula Student Team Delft
+subtitle: My experience in a Dream Team
+layout: default
+
+modal-id: 6
+date: 2024-01-01
+small-img: img/portfolio2024/FSTD/Small-img-FSTD.png
+img: img/portfolio2024/FSTD/DUT20E gray.jpg
+alt: image-alt
+
+ProjectOverview: During my second year in the Industrial Design Bachelor program at TU Delft, I joined Formula Student Team Delft, one of the university’s Dream Teams. These teams consist of cross-faculty students who come together for a year to develop innovative, technologically advanced machines. I was part of the Public Relations and Operations department, contributing part-time to a team of over 100 members, both part-time and full-time.
+
+client: Formula Student Team Delft, Public Relations and Operations
+duration: One academic year
+team: 100+ students (part-time and full-time)
+deliverables: Branding, social media content, newsletters, infographics, renders for car reveal presentation
+
+H1: "DUT20: A Brand New Look"
+H1h1: A new Brand Identity
+H1h1text: Each year, Formula Student Team Delft rebrands itself with a fresh identity, aiming to stand out from previous iterations while encapsulating the team’s core values. DUT20 was the name of our team that year. The challenge was to create a logo and visual identity for DUT20 that represented speed, daring, and innovation, while also honoring the collaboration between TU Delft and MIT.
+H1h2: Project Details
+H1h2text: "Key Deliverables: Logo design, visual identity, and team uniforms."
+H1h3: Responsibilities
+H1h3text: As a member of the design team, I played a key role in shaping the brand identity for DUT20. The final logo featured a wheel symbolizing speed, complemented by bold elements such as the aggressive eyes from our car livery, to project a daring and dynamic image. We carefully chose a typeface that reflected the technical expertise of both TU Delft and MIT. Primarily for internal use, this logo represents the team for the year.
+H1h3img1: img/portfolio2024/FSTD/Logos DUT20.jpg
+H1h3img1text: Selection of logo iterations
+H1h3img2: img/portfolio2024/FSTD/Logo paper.png
+H1h3img2text: Final logo
+H1h4text: In addition to the logo, I designed the team uniforms. A prominent front stripe, symbolizing the race track, highlights the team’s values of speed and audacity. The design balances TU Delft's dark blue tones with a red stripe representing MIT, creating a unified and energetic visual identity. Instead of the DUT20 logo, the uniforms feature the Formula Student Team Delft logo for external representation. For the Driverless team, the uniform includes two arrowhead symbols in the universities' colors, representing speed and innovative forward-thinking.
+H1h4img1: img/portfolio2024/FSTD/DUT20 shirts.jpg
+H1h4img1text: Uniform designs
+H1h4img2: img/portfolio2024/FSTD/IMG_9140.jpg
+H1h4img2text: Team wearing the uniform
+
+H2: Presenting Our Car
+H2h1: Shareholder Presentation
+H2h1text: During my time with the team, I was responsible for creating a variety of content for our social media platforms, newsletters, and infographics. My most significant task was producing high-quality renders for the official car reveal presentation to our shareholders. Working from a request list and blueprints of the car, I used Keyshot 9 to create these renders, which were critical in visually communicating the technical sophistication and design innovation of our vehicles. 
+H2h1img1: img/portfolio2024/FSTD/beide autos.jpg
+H2h1img1text: Render of the driverless and electric car
+H2h1img2: img/portfolio2024/FSTD/drivetrain.0.00_00_01_05.Still001.jpg
+H2h1img2text: Render of the drivetrain
+H2h1img3: img/portfolio2024/FSTD/dut20Ecloseup draadjes zijkagntl.31.jpg
+H2h1img3text: Render of the internal electronics
+H2h1img4: img/portfolio2024/FSTD/side.jpg
+H2h1img4text: Render of suspension
+H2h2: Conclusion
+H2h2text: My experience with the Formula Student Team Delft exemplifies my ability to contribute to large, cross-disciplinary teams in a high-stakes environment. I played a key role in developing a bold new brand identity for DUT20 and effectively communicated the team's vision through a variety of media. My work in creating the logo, team uniforms, and high-quality renders for the car reveal presentation not only strengthened the team's public presence but also showcased my skills in design, branding, and visual communication. This project highlighted my adaptability, creativity, and ability to deliver impactful results.
+---
