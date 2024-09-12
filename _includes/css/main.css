@@ -200,7 +200,7 @@ header {
     }
 
     .navbar-fixed-top .navbar-logo {
-        max-height: 30px; /* Initial logo size */
+        max-height: 40px; /* Initial logo size */
         transition: max-height 0.3s ease;
     }
 
@@ -212,7 +212,7 @@ header {
         font-size: 1.5em;
     }
     .navbar-fixed-top.navbar-shrink .navbar-logo {
-        max-height: 20px; /* Shrinked logo size */
+        max-height: 30px; /* Shrinked logo size */
     }
 }
 
@@ -246,7 +246,7 @@ header {
   }
   
   .navbar-logo {
-    max-height: 30px; /* Adjust the size of your logo */
+    max-height: 40px; /* Adjust the size of your logo, ook in media (boven) veranderen*/
     margin-right: 10px; /* Add some space between the logo and the text */
     vertical-align: middle;
   }  
