@@ -677,12 +677,8 @@ ul.list-inline li {
 
   /* portfolio last row centered*/
   .portfolio-flex-row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center; /* Center align items */
-  }
-  .portfolio-flex-item {
-    margin: 10px; /* Adjust as needed */
-    flex: 1 1 20%; /* Adjust this to control item width */
-    max-width: 20%; /* Ensure items take a percentage of the row */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust size */
+    gap: 20px; /* Adjust spacing between items */
+    justify-items: center; /* Center the items in the grid */
   }
