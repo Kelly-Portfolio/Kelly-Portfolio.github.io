@@ -643,7 +643,7 @@ ul.list-inline li {
   /* italics below images in modals are not too far away and become containers*/
 .image-text-block {
     text-align: center; /* Or left, if you prefer */
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .image-text-block img {
