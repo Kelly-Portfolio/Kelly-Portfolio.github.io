@@ -231,6 +231,18 @@ header {
     border: 0;
 }
 
+/* Adjust the logo size and alignment */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-logo {
+    max-height: 40px; /* Adjust the size of your logo */
+    margin-right: 10px; /* Add some space between the logo and the text */
+    vertical-align: middle;
+  }  
+
 section {
     /*padding: 50px 0;*/
     padding-top: 175px; /* Adjust this value based on your navbar height */
