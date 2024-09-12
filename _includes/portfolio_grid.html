@@ -50,39 +50,37 @@
   max-height: 0;
   opacity: 0;
   overflow: hidden;
-  transition: max-height 2s ease, opacity 0.5s ease;
+  transition: max-height 0.5s ease, opacity 0.5s ease;
 }
 
-/* When the show-item class is added, the items will be displayed with a smooth transition */
+/* When the show-item class is added, the items will expand smoothly */
 .show-item {
-  max-height: 1000px; /* Adjust this based on the approximate height of each item */
+  max-height: 500px; /* Adjust this based on the height of your items */
   opacity: 1;
-  transition: max-height 2s ease, opacity 0.5s ease;
+  transition: max-height 0.5s ease, opacity 0.5s ease;
 }
   </style>
   
   <!-- See More button JS script -->
   <script>
-    document.getElementById("seeMoreBtnPort").addEventListener("click", function() {
-      var hiddenItems = document.querySelectorAll(".hidden-item");
-      var btnText = this;
-  
-      // Toggle the hidden items' visibility
-      hiddenItems.forEach(function(item) {
-        if (item.classList.contains("show-item")) {
-          item.classList.remove("show-item");
-          item.style.display = "none";
-        } else {
-          item.classList.add("show-item");
-          item.style.display = "block";
-        }
-      });
-  
-      // Toggle the button text
-      if (btnText.textContent === "See More") {
-        btnText.textContent = "See Less";
-      } else {
-        btnText.textContent = "See More";
-      }
-    });
+  document.getElementById("seeMoreBtnPort").addEventListener("click", function() {
+  var hiddenItems = document.querySelectorAll(".hidden-item");
+  var btnText = this;
+
+  // Toggle the hidden items' visibility
+  hiddenItems.forEach(function(item) {
+    if (item.classList.contains("show-item")) {
+      item.classList.remove("show-item");
+    } else {
+      item.classList.add("show-item");
+    }
+  });
+
+  // Toggle the button text
+  if (btnText.textContent === "See More") {
+    btnText.textContent = "See Less";
+  } else {
+    btnText.textContent = "See More";
+  }
+});
   </script>
