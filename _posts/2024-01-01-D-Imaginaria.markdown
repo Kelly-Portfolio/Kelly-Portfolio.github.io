@@ -6,7 +6,7 @@ layout: default
 modal-id: 5
 date: 2024-01-01
 small-img: img/portfolio2024/Imaginaria/Small-img-Imagineria.jpg
-img: img/portfolio2024/Imaginaria/Imaginaria.png
+img: img/portfolio2024/Imaginaria/Imaginaria.jpg
 alt: image-alt
 
 ProjectOverview: As artificial intelligence becomes increasingly integral to our lives, its influence is expected to extend to the way our children play and learn. Parents are eager to introduce their children to AI early on, ensuring they grow up familiar with this powerful technology. However, this introduction must be safe, playful, and engaging. In the "Design for Children’s Play" course, we were tasked with creating a toy that incorporates AI technology in a way that encourages creativity and storytelling for children aged 8 and above.
