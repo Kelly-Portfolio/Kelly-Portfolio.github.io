@@ -21,14 +21,14 @@ H1h1: The Challenge
 H1h1text: Our goal was to design a toy or play experience that allows children to create or act out stories with a tangible embodiment they can touch and feel. The challenge was to seamlessly integrate AI technology into a toy that is not only educational but also captivating and fun for children.
 H1h2: Ideation and Concept Development
 H1h2text: Our ideation phase included word clouds, brainstorming, defining problem statements, developing extreme characters, and exploring various concepts. Through this creative process, we developed Imaginaria—a playmat that uses Augmented Reality (AR) and AI image generation technology to bring children's imaginative worlds to life. With Imaginaria, children can introduce objects into their stories, which the playmat then transforms into interactive, animated elements.
-H1h2img1: img/portfolio2024/Imaginaria/Imaginaria collage.png
+H1h2img1: img/portfolio2024/Imaginaria/Imaginaria collage.jpg
 H1h2img1text: Ideation phases
 
 H2: A Children’s World
 H2h1: Prototyping and Testing
 H2h1text: To evaluate the effectiveness of Imaginaria, we developed a paper prototype that simulated how the AI would generate and transform objects. This allowed us to test how well children could engage with the concept and form stories using a random assortment of objects.
 H2h2text: On testing day, we invited groups of children aged 9-11 years old to interact with the prototype. To ensure smooth and accurate testing, our team members rotated roles between presenter, assistant, and documenter for each round of testing. This approach allowed us to observe how children responded to the concept and gathered valuable insights for refining Imaginaria for future iterations and risk assessment.
-H2h2img1: img/portfolio2024/Imaginaria/Evaluation white.png
+H2h2img1: img/portfolio2024/Imaginaria/Evaluation white.jpg
 H2h2img1text: Moderating an evaluation session
 H2h2img2: img/portfolio2024/Imaginaria/IMG_20230126_101444.jpg
 H2h2img2text: The paper prototype
