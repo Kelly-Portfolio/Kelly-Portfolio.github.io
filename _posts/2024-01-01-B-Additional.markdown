@@ -39,7 +39,7 @@ H2h2: The Challenge
 H2h2text: I challenged myself to reimagine how Olvarit baby food could be experienced by parents, addressing the dilemma between convenience and control. The solution needed to provide parents with confidence in their child’s nutrition while reducing the stress associated with meal preparation.
 H2h3: Outcomes
 H2h3text: I designed a service that allows parents to plan their child’s meals using Olvarit’s expertise. The app provides customized meal plans and delivers a package with the required produce and preparation instructions. This service empowers parents to make informed decisions about their child’s diet, reducing uncertainty and stress.
-H2h3img1: img/portfolio2024/Additional/Olvarit Poster.png
+H2h3img1: img/portfolio2024/Additional/Olvarit Poster.jpg
 H2h3img1text: Convenience and control with Olvarit
 
 H3: PREG-POD
