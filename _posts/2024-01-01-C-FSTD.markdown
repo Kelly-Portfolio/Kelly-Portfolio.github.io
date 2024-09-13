@@ -24,12 +24,12 @@ H1h3: Responsibilities
 H1h3text: As a member of the design team, I played a key role in shaping the brand identity for DUT20. The final logo featured a wheel symbolizing speed, complemented by bold elements such as the aggressive eyes from our car livery, to project a daring and dynamic image. We carefully chose a typeface that reflected the technical expertise of both TU Delft and MIT. Primarily for internal use, this logo represents the team for the year.
 H1h3img1: img/portfolio2024/FSTD/Logos DUT20.jpg
 H1h3img1text: Selection of logo iterations
-H1h3img2: img/portfolio2024/FSTD/Logo paper.png
+H1h3img2: img/portfolio2024/FSTD/Logo paper.jpg
 H1h3img2text: Final logo
 H1h4text: In addition to the logo, I designed the team uniforms. A prominent front stripe, symbolizing the race track, highlights the team’s values of speed and audacity. The design balances TU Delft's dark blue tones with a red stripe representing MIT, creating a unified and energetic visual identity. Instead of the DUT20 logo, the uniforms feature the Formula Student Team Delft logo for external representation. For the Driverless team, the uniform includes two arrowhead symbols in the universities' colors, representing speed and innovative forward-thinking.
 H1h4img1: img/portfolio2024/FSTD/DUT20 shirts.jpg
 H1h4img1text: Uniform designs
-H1h4img2: img/portfolio2024/FSTD/teamphoto compressed.jpg
+H1h4img2: img/portfolio2024/FSTD/IMG_9140.jpg
 H1h4img2text: Team wearing the uniform
 
 H2: Presenting Our Car
