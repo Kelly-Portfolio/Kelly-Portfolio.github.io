@@ -15,22 +15,22 @@ SkillList: Yes
 H1: High Detail Rendering
 H1h1text: In the past, I’ve created renders using SolidWorks Visualize and Keyshot 9, focusing on objects with smooth surfaces like plastic and metals. To push my boundaries, I decided to take on the challenge of rendering less smooth surfaces, such as wood and soft textures. For this, I turned to Blender, a 3D modeling software often used for sculptures and intricate models, unlike SolidWorks, which is geared towards producible artifacts and physics calculations.
 H1h1img1: img/portfolio2024/Skills/Chair.png
-H1h1img1text: img/portfolio2024/Skills/Enderman.png
-H1h1img2: img/portfolio2024/Skills/Render.png
+H1h1img1text: The Søborg Chair by Fredericia
+H1h1img2: img/portfolio2024/Skills/Render.jpg
 H1h1img2text: A donut and coffee
-H1h1img3: img/portfolio2024/Skills/Anvil edit.png
+H1h1img3: img/portfolio2024/Skills/Anvil edit.jpg
 H1h1img3text: A used anvil
-H1h1img4: img/portfolio2024/Skills/Enderman.png
+H1h1img4: img/portfolio2024/Skills/Enderman.jpg
 H1h1img4text: An Enderman character from Minecraft
 
 H2: Digital Drawing
 H2h1text: While I’ve incorporated digital drawing into other projects, it hasn’t been the main focus until now. In this section, I wanted to highlight these skills. Using a drawing tablet and Photoshop, I’ve created detailed sketches.
-H2h1img1: img/portfolio2024/Skills/Skimask.png
+H2h1img1: img/portfolio2024/Skills/Skimask.jpg
 H2h1img1text: Ski masks sketches
-H2h1img2: img/portfolio2024/Skills/Haardroger.png
+H2h1img2: img/portfolio2024/Skills/Haardroger.jpg
 H2h1img2text: Hair dryers sketches
-H2h1img3: img/portfolio2024/Skills/Digitaal.png
+H2h1img3: img/portfolio2024/Skills/Digitaal small.jpg
 H2h1img3text: Hard drive sketch
-H2h1img4: img/portfolio2024/Skills/Side view exploded.png
+H2h1img4: img/portfolio2024/Skills/Side view exploded.jpg
 H2h1img4text: Senseo exploded view sketch
 ---
