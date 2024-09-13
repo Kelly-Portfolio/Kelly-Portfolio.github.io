@@ -21,7 +21,7 @@ H1h1: Market Analysis
 H1h1text: To effectively position Spireaux in the market, we conducted a 4C analysis, examining the company (brand and product), competitors, consumers, and the broader market context. This analysis revealed that self-improving casual sport enthusiasts, who value health, sustainability, and convenience, represent the ideal target audience. These consumers are part of a growing movement focused on health and sustainability, and they appreciate products that are both ready-made and easy to consume. Using the strengths of Spireaux, it is possible to create a unique product that they would seek out.
 H1h1img1: img/portfolio2024/Spark/Circle.png
 H1h1img1text: Spireaux market analysis, levels of competition
-H1h1img2: img/portfolio2024/Spark/Spark Persona.png
+H1h1img2: img/portfolio2024/Spark/Spark Persona.jpg
 H1h1img2text: Persona of target audience
 
 H2: A Spark Among the Brands
