@@ -29,7 +29,7 @@ H1h3img2text: Final logo
 H1h4text: In addition to the logo, I designed the team uniforms. A prominent front stripe, symbolizing the race track, highlights the team’s values of speed and audacity. The design balances TU Delft's dark blue tones with a red stripe representing MIT, creating a unified and energetic visual identity. Instead of the DUT20 logo, the uniforms feature the Formula Student Team Delft logo for external representation. For the Driverless team, the uniform includes two arrowhead symbols in the universities' colors, representing speed and innovative forward-thinking.
 H1h4img1: img/portfolio2024/FSTD/DUT20 shirts.jpg
 H1h4img1text: Uniform designs
-H1h4img2: img/portfolio2024/FSTD/IMG_9140.jpg
+H1h4img2: img/portfolio2024/FSTD/teamphoto compressed.jpg
 H1h4img2text: Team wearing the uniform
 
 H2: Presenting Our Car
