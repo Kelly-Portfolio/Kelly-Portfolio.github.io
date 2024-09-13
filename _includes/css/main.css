@@ -156,11 +156,6 @@ header {
         min-height: 300px; /* Ensure a minimum height to prevent cutting off content */
     }
 
-    header .intro-text {
-        top: 10%;
-        transform: translate(-50%, -50%);
-    }
-
     header .intro-text .name {
         font-size: 1.5em;
     }
