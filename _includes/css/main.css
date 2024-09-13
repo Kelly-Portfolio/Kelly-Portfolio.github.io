@@ -484,7 +484,7 @@ footer .footer-col {
 ul.list-inline {
     display: grid;
     grid-auto-flow: column;
-    grid-gap: 50px; /* Controls space between centers */
+    grid-gap: 150px; /* Controls space between centers */
     justify-content: center;
     padding-left: 0;
     margin: 0;
@@ -497,6 +497,21 @@ ul.list-inline li {
     align-items: center;
 }
 
+ul.social-list {
+    display: grid;
+    grid-auto-flow: column;
+    grid-gap: 15px; /* Controls space between centers */
+    justify-content: center;
+    padding-left: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+ul.social-list li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .btn-social {
     display: flex;
     justify-content: center;

@@ -14,7 +14,7 @@
         </div>-->
         <div class="footer-col col-md-12">
           <h3>{{ site.footer.social }}</h3>
-         <ul class="list-inline">
+         <ul class="social-list">
             {% for network in site.social %}
             <li>
               <a href="{% if network.title == 'envelope' %}mailto:{{ network.url }}{% else %}{{ network.url }}{% endif %}" class="btn-social btn-outline" target="_blank" rel="noopener noreferrer">
