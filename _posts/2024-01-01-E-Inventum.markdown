@@ -5,7 +5,7 @@ layout: default
 
 modal-id: 4
 date: 2024-01-01
-small-img: img/portfolio2024/Inventum/Small-img-Inventum.png
+small-img: img/portfolio2024/Inventum/Small-img-Inventum.jpg
 img: img/portfolio2024/Inventum/Vormgeving uit.jpg
 alt: image-alt
 

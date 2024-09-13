@@ -5,7 +5,7 @@ layout: default
 
 modal-id: 7
 date: 2024-01-01
-small-img: img/portfolio2024/Additional/Small-img-Beyond.png
+small-img: img/portfolio2024/Additional/Small-img-Beyond.jpg
 alt: image-alt
 
 ProjectOverview: In this section, I showcase three short projects completed during my studies. These projects reflect a diverse range of skills and approaches, from VR applications to speculative design concepts.

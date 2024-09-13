@@ -4,7 +4,7 @@ subtitle: The creation of a brand identity for a healthy drink
 layout: default
 modal-id: 3
 date: 2024-01-01
-small-img: img/portfolio2024/Spark/Small-img-Spark.png
+small-img: img/portfolio2024/Spark/Small-img-Spark.jpg
 img: img/portfolio2024/Spark/Spark.jpg
 alt: image-alt
 

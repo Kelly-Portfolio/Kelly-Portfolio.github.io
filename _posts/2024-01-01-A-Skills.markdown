@@ -5,7 +5,7 @@ layout: default
 
 modal-id: 8
 date: 2024-01-01
-small-img: img/portfolio2024/Skills/Small-img-Skill.png
+small-img: img/portfolio2024/Skills/Small-img-Skill.jpg
 alt: image-alt
 
 ProjectOverview: I’m always eager to improve myself and acquire new skills, whether design-related or not. Learning is a passion I pursue in my free time. In this section, I’ll highlight the design-related skills I’ve acquired independently, which have yet to be utilized in my other projects.

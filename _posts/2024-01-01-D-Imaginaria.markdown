@@ -5,7 +5,7 @@ layout: default
 
 modal-id: 5
 date: 2024-01-01
-small-img: img/portfolio2024/Imaginaria/Small-img-Imagineria.png
+small-img: img/portfolio2024/Imaginaria/Small-img-Imagineria.jpg
 img: img/portfolio2024/Imaginaria/Imaginaria.png
 alt: image-alt
 

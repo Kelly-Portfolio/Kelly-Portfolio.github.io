@@ -4,7 +4,7 @@ subtitle: A product service system that stimulates people to be more willing to 
 layout: default
 modal-id: 1
 date: 2024-01-01
-small-img: img/portfolio2024/MBY/Small-img-MBY.png
+small-img: img/portfolio2024/MBY/Small-img-MBY.jpg
 video: https://www.youtube.com/embed/OucIFC-FWE0?si=DjVhZIUdDwQP1C1d
 alt: image-alt
 

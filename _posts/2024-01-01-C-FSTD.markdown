@@ -5,7 +5,7 @@ layout: default
 
 modal-id: 6
 date: 2024-01-01
-small-img: img/portfolio2024/FSTD/Small-img-FSTD.png
+small-img: img/portfolio2024/FSTD/Small-img-FSTD.jpg
 img: img/portfolio2024/FSTD/DUT20E gray.jpg
 alt: image-alt
 

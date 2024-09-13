@@ -4,7 +4,7 @@ subtitle: A product service system designed to help Barco successfully enter the
 layout: default
 modal-id: 2
 date: 2024-01-01
-small-img: img/portfolio2024/Barco/Small-img-Barco.png
+small-img: img/portfolio2024/Barco/Small-img-Barco.jpg
 alt: image-alt
 video: https://www.youtube.com/embed/SbjIRt28Ucs?si=Tmqot2xNz445nxEF
 
