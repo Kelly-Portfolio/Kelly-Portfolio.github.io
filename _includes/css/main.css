@@ -460,7 +460,7 @@ footer .footer-col {
 ul.social-list {
     display: grid;
     grid-auto-flow: column;
-    grid-gap: 15px; /* Controls space between centers */
+    grid-gap: 25px; /* Controls space between centers */
     justify-content: center;
     padding-left: 0;
     margin: 0;
@@ -472,6 +472,14 @@ ul.social-list li {
     flex-direction: column;
     align-items: center;
 }
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    ul.social-list {
+        grid-gap: 15px; /* Controls space between centers */
+    }
+}
+
 .btn-social {
     display: flex;
     justify-content: center;
