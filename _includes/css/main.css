@@ -11,11 +11,11 @@ body {
 
 p,
 b {
-    font-size: 16px;
+    font-size: 16px; /*you should also change it in the btn-success down below, which uses the same font size; used to be 20px*/
 }
 
 p.small {
-    font-size: 16px; /*you should also change it in the btn-success down below, which uses the same font size*/
+    font-size: 14px; /*used to be 16px**/
 }
 
 a,
