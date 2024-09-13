@@ -637,6 +637,27 @@ ul.list-inline li {
     transform: rotate(90deg);
 }
 
+/* Media query for tablets and smaller screens */
+@media (max-width: 1024px) {
+    .portfolio-modal .modal-content h2 {
+        font-size: 2.5em; /* Smaller font size for tablets */
+    }
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    .portfolio-modal .modal-content h2 {
+        font-size: 2em; /* Even smaller font size for mobile devices */
+    }
+}
+
+/* Media query for very small screens */
+@media (max-width: 480px) {
+    .portfolio-modal .modal-content h2 {
+        font-size: 1.5em; /* Smallest font size for very small screens */
+    }
+}
+
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
