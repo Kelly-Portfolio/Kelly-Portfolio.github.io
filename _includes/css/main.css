@@ -637,10 +637,10 @@ ul.list-inline li {
     transform: rotate(90deg);
 }
 
-/* Media query for tablets and smaller screens */
-@media (max-width: 1024px) {
+/* Media query for mobile devices */
+@media (max-width: 768px) {
     .portfolio-modal .modal-content h2 {
-        font-size: 2.5em; /* Smaller font size for tablets */
+        font-size: 2em; /* Even smaller font size for mobile devices */
     }
 }
 
