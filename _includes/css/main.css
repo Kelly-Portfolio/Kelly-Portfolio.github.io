@@ -53,6 +53,16 @@ ul.list-inline {
     list-style-type: none;
 }
 
+/* Allow wrapping on smaller screens */
+@media (max-width: 768px) {
+    ul.list-inline {
+        grid-auto-flow: row; /* Change layout to rows on smaller screens */
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Responsive columns */
+        justify-content: center;
+    }
+}
+
+
 ul.list-inline li {
     display: flex;
     flex-direction: column;
