@@ -22,17 +22,17 @@ H1h1: Research and Analysis
 H1h1text: To gain a comprehensive understanding of the indoor climate industry, I began by exploring and analyzing the field of indoor heat pumps. Through user research, which included interviews and surveys, I identified key customer values and needs. The primary outcomes of this research phase were the creation of a detailed customer persona and an overview of how the indoor climate is currently managed. These insights informed the development of a vision to position Inventum as the go-to brand for all aspects of a healthy indoor climate.
 H1h1img1: img/portfolio2024/Inventum/Factoren@2x.png
 H1h1img1text: Interation between factors of the indoor climate
-H1h1img2: img/portfolio2024/Inventum/Persona Inventum.png
+H1h1img2: img/portfolio2024/Inventum/Persona Inventum.jpg
 H1h1img2text: Persona
 
 H2: A Breath of Fresh Air
 H2h1: Design Process
 H2h1text: The ideation phase involved creating numerous sketches and concepts, many of which were either refined or discarded to arrive at the best solution. This iterative process led to the development of the Inventum Sens-Air, a modular air sensor system. Each module of the Sens-Air contains a specific type of sensor, allowing users to mix and match modules to create a customized product that meets their individual needs.
-H2h1img1: img/portfolio2024/Inventum/Inventum collage.png
+H2h1img1: img/portfolio2024/Inventum/Inventum collage.jpg
 H2h1img1text: Ideation collage
 H2h2: Final Design
 H2h2text: The final design of the Inventum Sens-Air is presented in the accompanying render, alongside an infographic that highlights the key features and benefits of the product. This modular approach not only offers flexibility and personalization but also aligns with Inventum's mission to promote a healthy and sustainable indoor climate.
-H2h2img1: img/portfolio2024/Inventum/Fin copy 2.png
+H2h2img1: img/portfolio2024/Inventum/Fin copy 2.jpg
 H2h2img1text: Inventum Sens-Air final desing sketch
 H2h2img2: img/portfolio2024/Inventum/The Sens-Air_Web.jpg
 H2h2img2text: Inventum Sens-Air infographic
