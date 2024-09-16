@@ -32,8 +32,6 @@ H2h1img1: img/portfolio2024/Inventum/Inventum collage.jpg
 H2h1img1text: Ideation collage
 H2h2: Final Design
 H2h2text: The final design of the Inventum Sens-Air is presented in the accompanying render, alongside an infographic that highlights the key features and benefits of the product. This modular approach not only offers flexibility and personalization but also aligns with Inventum's mission to promote a healthy and sustainable indoor climate.
-H2h2img1: img/portfolio2024/Inventum/Fin copy 2.jpg
-H2h2img1text: Inventum Sens-Air final desing sketch
 H2h2img2: img/portfolio2024/Inventum/The Sens-Air_Web.jpg
 H2h2img2text: Inventum Sens-Air infographic
 H2h3: Conclusion
