@@ -27,7 +27,7 @@ H1h2img1text: Ideation phases
 H2: A Children’s World
 H2h1: Prototyping and Testing
 H2h1text: To evaluate the effectiveness of Imaginaria, we developed a paper prototype that simulated how the AI would generate and transform objects. This allowed us to test how well children could engage with the concept and form stories using a random assortment of objects.
-H2h2text: On testing day, we invited groups of children aged 9-11 years old to interact with the prototype. To ensure smooth and accurate testing, our team members rotated roles between presenter, assistant, and documenter for each round of testing. This approach allowed us to observe how children responded to the concept and gathered valuable insights for refining Imaginaria for future iterations and risk assessment.
+H2h2text: On testing day, we invited groups of children aged 9-11 years old to interact with the prototype. To ensure smooth and accurate testing, our team members rotated roles between presenter, assistant, and documenter for each round of testing. This approach allowed us to supervise and observe how children responded to the concept and gathered valuable insights for refining Imaginaria for future iterations and risk assessment.
 H2h2img1: img/portfolio2024/Imaginaria/Evaluation white.jpg
 H2h2img1text: Moderating an evaluation session
 H2h2img2: img/portfolio2024/Imaginaria/IMG_20230126_101444.jpg
