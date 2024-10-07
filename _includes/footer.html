@@ -20,13 +20,13 @@
               <a href="{% if network.title == 'envelope' %}mailto:{{ network.url }}{% else %}{{ network.url }}{% endif %}" class="btn-social btn-outline" target="_blank" rel="noopener noreferrer">
                 <i class="{% if network.title == 'envelope' or network.title == 'file' %}fa-solid{% else %}fa-brands{% endif %} fa-{{ network.title }}"></i>
               </a>
-              <p class="social-description">{{ network.description }}</p>
+              <p class="social-description">{{ network.description }}</p> <!--<p class="small social-description">{{ network.description }}</p>  -->
             </li>
             {% endfor %}
          </ul>
          <!-- Add email section here -->
           <div class="contact-email">
-            <p><a href="mailto:kellyxukelly@gmail.com">kellyxukelly@gmail.com</a></p>
+            <p><a href="mailto:kellyxukelly@gmail.com" class="email-link">kellyxukelly@gmail.com</a></p>
           </div>
 
         </div>

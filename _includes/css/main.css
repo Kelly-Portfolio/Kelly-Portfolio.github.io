@@ -501,6 +501,15 @@ ul.social-list li {
     text-align: center; /* Center the description text */
 }
 
+.email-link {
+    color: white; /* Make the link white */
+    text-decoration: none; /* Remove underline if you want */
+}
+  
+.email-link:hover {
+    text-decoration: underline; /* Optional: Add underline on hover */
+}
+
 .btn:focus,
 .btn:active,
 .btn.active {
