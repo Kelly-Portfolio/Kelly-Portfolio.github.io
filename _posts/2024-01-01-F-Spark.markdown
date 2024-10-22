@@ -8,7 +8,7 @@ small-img: img/portfolio2024/Spark/Small-img-Spark.jpg
 img: img/portfolio2024/Spark/Spark.jpg
 alt: image-alt
 
-ProjectOverview: Spirulina, a nutrient-rich algae that can be easily added to food without compromising taste, is poised to become the next big trend in the health food industry. Spireaux, a young startup, aims to capitalize on this trend by introducing a new spirulina-based drink that showcases the potential of this superfood. Our brief was to design a new brand and product to help Spireaux realize its vision. This project was completed as part of the Brand and Product Commercialization course during my Master's program. The team, consisting of four students, worked over 10 weeks to deliver a comprehensive presentation and final report, which included brand positioning and a launch campaign. Our brief was to design a new brand and product for this company to realize its dream. 
+ProjectOverview: Spirulina, a nutrient-rich algae that can be easily added to food without compromising taste, is poised to become the next big trend in the health food industry. Spireaux, a young startup, aims to capitalize on this trend by introducing a new spirulina-based drink that showcases the potential of this superfood. Our brief was to design a new brand and product to help Spireaux realize its vision. This project was completed as part of the Brand and Product Commercialization course during my master's program. The team, consisting of four students, worked over 10 weeks to deliver a comprehensive presentation and final report, which included brand positioning and a launch campaign. Our brief was to design a new brand and product for this company to realize its dream. 
 
 client: Spireaux
 course: Spireaux
