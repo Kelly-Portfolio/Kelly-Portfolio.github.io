@@ -9,7 +9,7 @@ small-img: img/portfolio2024/FSTD/Small-img-FSTD.jpg
 img: img/portfolio2024/FSTD/DUT20E gray.jpg
 alt: image-alt
 
-ProjectOverview: During my second year in the Industrial Design Bachelor program at TU Delft, I joined Formula Student Team Delft, one of the university’s Dream Teams. These teams consist of cross-faculty students who come together for a year to develop innovative, technologically advanced machines. I was part of the Public Relations and Operations department, contributing part-time to a team of over 100 members, both part-time and full-time.
+ProjectOverview: During my second year in the Industrial Design bachelor program at TU Delft, I joined Formula Student Team Delft, one of the university’s Dream Teams. These teams consist of cross-faculty students who come together for a year to develop innovative, technologically advanced machines. I was part of the Public Relations and Operations department, contributing part-time to a team of over 100 members, both part-time and full-time.
 
 client: Formula Student Team Delft, Public Relations and Operations
 duration: One academic year
