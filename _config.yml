@@ -49,9 +49,9 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/kellyxudesigner/
     description: LinkedIn
-  - title: envelope
-    url: kellyxukelly@gmail.com
-    description: Email
+  #- title: envelope
+  #  url: kellyxukelly@gmail.com
+  #  description: Email
   - title: file
     url: https://rdcu.be/dr55w
     description: Paper
